@@ -3,6 +3,9 @@ name: Deploy WCA statistics to GitHub Pages
 on:
   push:
     branches: [main, master]
+  schedule:
+    # UTC 00:00，即北京时间每天 08:00；实际启动时间可能延迟。
+    - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
       refresh_data:
@@ -30,13 +33,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Node for optional data refresh
-        if: ${{ inputs.refresh_data == true }}
+      - name: Setup Node for data refresh
+        if: ${{ github.event_name == 'schedule' || inputs.refresh_data == true }}
         uses: actions/setup-node@v4
         with:
           node-version: '22'
       - name: Refresh default member data
-        if: ${{ inputs.refresh_data == true }}
+        if: ${{ github.event_name == 'schedule' || inputs.refresh_data == true }}
         run: npm run sync:defaults
       - name: Configure Pages
         uses: actions/configure-pages@v5
