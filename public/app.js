@@ -181,7 +181,7 @@ async function init() {
   catch { notice('浏览器存储不可用。添加选手后请备份名单。', true); }
   let defaults = { version: saved?.defaultVersion || '', members: [] };
   try {
-    const response = await fetch('./default-members.json', { signal: AbortSignal.timeout(10000) });
+    const response = await fetch(new URL('./default-members.json', import.meta.url), { cache: 'no-store', signal: AbortSignal.timeout(10000) });
     if (!response.ok) throw new Error('missing defaults');
     const config = await response.json();
     if (typeof config.version !== 'string' || !Array.isArray(config.members) || !config.members.every(m => validId(m.id) && typeof m.name === 'string')) throw new Error('invalid defaults');
@@ -206,7 +206,7 @@ async function init() {
     while (queue.length) {
       const id = queue.shift();
       try {
-        const response = await fetch(`./data/${id}.json`, { signal: AbortSignal.timeout(15000) });
+        const response = await fetch(new URL(`./data/${id}.json`, import.meta.url), { cache: 'no-store', signal: AbortSignal.timeout(15000) });
         if (!response.ok) throw new Error('snapshot missing');
         const bundled = await response.json();
         if (!isSnapshot(bundled, id)) throw new Error('invalid snapshot');

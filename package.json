@@ -6,6 +6,7 @@
   "description": "WCA 非官方连续平均统计：Ao12 / Ao25 / Ao50 / Ao100",
   "scripts": {
     "start": "node server.mjs",
+    "build:pages": "node scripts/build-pages.mjs",
     "sync:defaults": "node scripts/sync-defaults.mjs",
     "test": "node --test tests/*.test.mjs"
   },

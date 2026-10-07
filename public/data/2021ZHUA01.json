@@ -1,0 +1,5037 @@
+{
+  "id": "2021ZHUA01",
+  "fetchedAt": "2026-10-07T07:27:22.658Z",
+  "profile": {
+    "person": {
+      "name": "Yiming Zhuang (庄轶茗)",
+      "gender": "m",
+      "url": "https://www.worldcubeassociation.org/persons/2021ZHUA01",
+      "country": {
+        "id": "China",
+        "name": "China",
+        "continent_id": "_Asia",
+        "iso2": "CN"
+      },
+      "delegate_status": null,
+      "class": "person",
+      "teams": [],
+      "avatar": {
+        "id": 27555,
+        "status": "approved",
+        "thumbnail_crop_x": null,
+        "thumbnail_crop_y": null,
+        "thumbnail_crop_w": null,
+        "thumbnail_crop_h": null,
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2021ZHUA01/1724214145.png",
+        "thumb_url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2021ZHUA01/1724214145_thumb.png",
+        "is_default": false,
+        "can_edit_thumbnail": false
+      },
+      "wca_id": "2021ZHUA01",
+      "country_iso2": "CN",
+      "id": "2021ZHUA01"
+    },
+    "competition_count": 31,
+    "personal_records": {
+      "222": {
+        "single": {
+          "id": 1057,
+          "person_id": "2021ZHUA01",
+          "event_id": "222",
+          "best": 100,
+          "world_rank": 1045,
+          "continent_rank": 184,
+          "country_rank": 57
+        },
+        "average": {
+          "id": 104,
+          "person_id": "2021ZHUA01",
+          "event_id": "222",
+          "best": 134,
+          "world_rank": 103,
+          "continent_rank": 20,
+          "country_rank": 14
+        }
+      },
+      "333": {
+        "single": {
+          "id": 188604,
+          "person_id": "2021ZHUA01",
+          "event_id": "333",
+          "best": 446,
+          "world_rank": 127,
+          "continent_rank": 50,
+          "country_rank": 30
+        },
+        "average": {
+          "id": 183564,
+          "person_id": "2021ZHUA01",
+          "event_id": "333",
+          "best": 571,
+          "world_rank": 79,
+          "continent_rank": 40,
+          "country_rank": 34
+        }
+      },
+      "444": {
+        "single": {
+          "id": 582518,
+          "person_id": "2021ZHUA01",
+          "event_id": "444",
+          "best": 2067,
+          "world_rank": 79,
+          "continent_rank": 32,
+          "country_rank": 11
+        },
+        "average": {
+          "id": 535704,
+          "person_id": "2021ZHUA01",
+          "event_id": "444",
+          "best": 2459,
+          "world_rank": 86,
+          "continent_rank": 39,
+          "country_rank": 18
+        }
+      },
+      "555": {
+        "single": {
+          "id": 669558,
+          "person_id": "2021ZHUA01",
+          "event_id": "555",
+          "best": 4370,
+          "world_rank": 213,
+          "continent_rank": 85,
+          "country_rank": 25
+        },
+        "average": {
+          "id": 591574,
+          "person_id": "2021ZHUA01",
+          "event_id": "555",
+          "best": 5055,
+          "world_rank": 271,
+          "continent_rank": 103,
+          "country_rank": 27
+        }
+      },
+      "666": {
+        "single": {
+          "id": 713744,
+          "person_id": "2021ZHUA01",
+          "event_id": "666",
+          "best": 12123,
+          "world_rank": 2038,
+          "continent_rank": 706,
+          "country_rank": 252
+        },
+        "average": {
+          "id": 620390,
+          "person_id": "2021ZHUA01",
+          "event_id": "666",
+          "best": 12899,
+          "world_rank": 1950,
+          "continent_rank": 691,
+          "country_rank": 248
+        }
+      },
+      "333oh": {
+        "single": {
+          "id": 515496,
+          "person_id": "2021ZHUA01",
+          "event_id": "333oh",
+          "best": 1584,
+          "world_rank": 7373,
+          "continent_rank": 2740,
+          "country_rank": 980
+        },
+        "average": {
+          "id": 483645,
+          "person_id": "2021ZHUA01",
+          "event_id": "333oh",
+          "best": 1874,
+          "world_rank": 6027,
+          "continent_rank": 2325,
+          "country_rank": 865
+        }
+      },
+      "clock": {
+        "single": {
+          "id": 747694,
+          "person_id": "2021ZHUA01",
+          "event_id": "clock",
+          "best": 729,
+          "world_rank": 3930,
+          "continent_rank": 961,
+          "country_rank": 270
+        },
+        "average": {
+          "id": 646335,
+          "person_id": "2021ZHUA01",
+          "event_id": "clock",
+          "best": 967,
+          "world_rank": 4879,
+          "continent_rank": 1166,
+          "country_rank": 334
+        }
+      },
+      "pyram": {
+        "single": {
+          "id": 821885,
+          "person_id": "2021ZHUA01",
+          "event_id": "pyram",
+          "best": 263,
+          "world_rank": 3330,
+          "continent_rank": 895,
+          "country_rank": 311
+        },
+        "average": {
+          "id": 700029,
+          "person_id": "2021ZHUA01",
+          "event_id": "pyram",
+          "best": 521,
+          "world_rank": 5413,
+          "continent_rank": 1635,
+          "country_rank": 602
+        }
+      },
+      "skewb": {
+        "single": {
+          "id": 954429,
+          "person_id": "2021ZHUA01",
+          "event_id": "skewb",
+          "best": 343,
+          "world_rank": 5394,
+          "continent_rank": 1317,
+          "country_rank": 408
+        },
+        "average": {
+          "id": 827613,
+          "person_id": "2021ZHUA01",
+          "event_id": "skewb",
+          "best": 644,
+          "world_rank": 7542,
+          "continent_rank": 2075,
+          "country_rank": 717
+        }
+      }
+    },
+    "medals": {
+      "gold": 4,
+      "silver": 3,
+      "bronze": 6,
+      "total": 13
+    },
+    "records": {
+      "national": 0,
+      "continental": 0,
+      "world": 0,
+      "total": 0
+    },
+    "total_solves": 1232
+  },
+  "results": [
+    {
+      "id": 3720440,
+      "competition_id": "ShenzhenGoodMorning2021",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 61,
+      "best": 2985,
+      "average": 3391,
+      "attempts": [
+        2985,
+        3561,
+        3292,
+        3644,
+        3321
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3720494,
+      "competition_id": "ShenzhenGoodMorning2021",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 34,
+      "best": 1297,
+      "average": 1415,
+      "attempts": [
+        1464,
+        1496,
+        1297,
+        1420,
+        1360
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3720536,
+      "competition_id": "ShenzhenGoodMorning2021",
+      "event_id": "pyram",
+      "round_type_id": "c",
+      "pos": 29,
+      "best": 2030,
+      "average": 0,
+      "attempts": [
+        2030,
+        2272,
+        0,
+        0,
+        0
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3720558,
+      "competition_id": "ShenzhenGoodMorning2021",
+      "event_id": "skewb",
+      "round_type_id": "c",
+      "pos": 19,
+      "best": 1566,
+      "average": 1964,
+      "attempts": [
+        1882,
+        2006,
+        1566,
+        2004,
+        2626
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3730602,
+      "competition_id": "ShenzhenNanshanMorning2021",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 38,
+      "best": 1496,
+      "average": 1804,
+      "attempts": [
+        1879,
+        1496,
+        2135,
+        1633,
+        1901
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3730698,
+      "competition_id": "ShenzhenNanshanMorning2021",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 45,
+      "best": 2047,
+      "average": 2257,
+      "attempts": [
+        2047,
+        2656,
+        2128,
+        2175,
+        2468
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3730750,
+      "competition_id": "ShenzhenNanshanMorning2021",
+      "event_id": "222",
+      "round_type_id": "1",
+      "pos": 37,
+      "best": 477,
+      "average": -1,
+      "attempts": [
+        -1,
+        932,
+        -1,
+        906,
+        477
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5502601,
+      "competition_id": "ChongqingOpen2023",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 12,
+      "best": 684,
+      "average": 763,
+      "attempts": [
+        801,
+        759,
+        966,
+        729,
+        684
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5502794,
+      "competition_id": "ChongqingOpen2023",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 15,
+      "best": 642,
+      "average": 738,
+      "attempts": [
+        790,
+        821,
+        642,
+        718,
+        705
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5502887,
+      "competition_id": "ChongqingOpen2023",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 16,
+      "best": 260,
+      "average": 308,
+      "attempts": [
+        334,
+        376,
+        265,
+        260,
+        324
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5503009,
+      "competition_id": "ChongqingOpen2023",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 13,
+      "best": 190,
+      "average": 304,
+      "attempts": [
+        265,
+        190,
+        383,
+        300,
+        347
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5503045,
+      "competition_id": "ChongqingOpen2023",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 33,
+      "best": 4056,
+      "average": 4632,
+      "attempts": [
+        4514,
+        5193,
+        5609,
+        4056,
+        4190
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5503190,
+      "competition_id": "ChongqingOpen2023",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 45,
+      "best": 782,
+      "average": 925,
+      "attempts": [
+        1035,
+        1084,
+        782,
+        864,
+        876
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5514867,
+      "competition_id": "ShenzhenYouthOpen2023",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 15,
+      "best": 766,
+      "average": 846,
+      "attempts": [
+        766,
+        845,
+        -1,
+        835,
+        858
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5515054,
+      "competition_id": "ShenzhenYouthOpen2023",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 7,
+      "best": 685,
+      "average": 756,
+      "attempts": [
+        791,
+        813,
+        724,
+        754,
+        685
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5515134,
+      "competition_id": "ShenzhenYouthOpen2023",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 8,
+      "best": 641,
+      "average": 789,
+      "attempts": [
+        794,
+        954,
+        842,
+        731,
+        641
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5515154,
+      "competition_id": "ShenzhenYouthOpen2023",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 12,
+      "best": 223,
+      "average": 325,
+      "attempts": [
+        223,
+        287,
+        375,
+        348,
+        340
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5515268,
+      "competition_id": "ShenzhenYouthOpen2023",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 2,
+      "best": 208,
+      "average": 241,
+      "attempts": [
+        357,
+        208,
+        255,
+        252,
+        215
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5515303,
+      "competition_id": "ShenzhenYouthOpen2023",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 21,
+      "best": 601,
+      "average": 786,
+      "attempts": [
+        634,
+        1096,
+        601,
+        881,
+        844
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5598948,
+      "competition_id": "ChangshaOpen2023",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 9,
+      "best": 667,
+      "average": 714,
+      "attempts": [
+        731,
+        695,
+        715,
+        761,
+        667
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5599134,
+      "competition_id": "ChangshaOpen2023",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 19,
+      "best": 709,
+      "average": 803,
+      "attempts": [
+        709,
+        897,
+        785,
+        872,
+        751
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5599212,
+      "competition_id": "ChangshaOpen2023",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 8,
+      "best": 209,
+      "average": 235,
+      "attempts": [
+        250,
+        209,
+        313,
+        226,
+        228
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5599335,
+      "competition_id": "ChangshaOpen2023",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 14,
+      "best": 273,
+      "average": 364,
+      "attempts": [
+        421,
+        273,
+        392,
+        379,
+        322
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5599416,
+      "competition_id": "ChangshaOpen2023",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 39,
+      "best": 515,
+      "average": 684,
+      "attempts": [
+        792,
+        515,
+        783,
+        687,
+        582
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5599519,
+      "competition_id": "ChangshaOpen2023",
+      "event_id": "skewb",
+      "round_type_id": "d",
+      "pos": 46,
+      "best": 539,
+      "average": 824,
+      "attempts": [
+        917,
+        931,
+        539,
+        1106,
+        623
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5600853,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 2,
+      "best": 627,
+      "average": 727,
+      "attempts": [
+        627,
+        729,
+        691,
+        777,
+        762
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601049,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 13,
+      "best": 683,
+      "average": 811,
+      "attempts": [
+        837,
+        899,
+        697,
+        1026,
+        683
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601119,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 4,
+      "best": 655,
+      "average": 738,
+      "attempts": [
+        723,
+        799,
+        709,
+        782,
+        655
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601141,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 10,
+      "best": 257,
+      "average": 299,
+      "attempts": [
+        397,
+        257,
+        304,
+        277,
+        315
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601268,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 12,
+      "best": 249,
+      "average": 276,
+      "attempts": [
+        292,
+        249,
+        271,
+        264,
+        348
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601300,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 29,
+      "best": 3034,
+      "average": 3933,
+      "attempts": [
+        4499,
+        3761,
+        3841,
+        4196,
+        3034
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601582,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "skewb",
+      "round_type_id": "d",
+      "pos": 35,
+      "best": 586,
+      "average": 849,
+      "attempts": [
+        880,
+        1140,
+        586,
+        941,
+        727
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5768285,
+      "competition_id": "HangzhouSpring2024",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 18,
+      "best": 710,
+      "average": 839,
+      "attempts": [
+        855,
+        822,
+        840,
+        862,
+        710
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5768426,
+      "competition_id": "HangzhouSpring2024",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 10,
+      "best": 574,
+      "average": 710,
+      "attempts": [
+        776,
+        699,
+        797,
+        656,
+        574
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5768505,
+      "competition_id": "HangzhouSpring2024",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 9,
+      "best": 634,
+      "average": 696,
+      "attempts": [
+        691,
+        692,
+        634,
+        706,
+        788
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5768514,
+      "competition_id": "HangzhouSpring2024",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 8,
+      "best": 201,
+      "average": 277,
+      "attempts": [
+        201,
+        237,
+        325,
+        296,
+        298
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5768603,
+      "competition_id": "HangzhouSpring2024",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 5,
+      "best": 182,
+      "average": 230,
+      "attempts": [
+        438,
+        202,
+        238,
+        182,
+        251
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5768622,
+      "competition_id": "HangzhouSpring2024",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 8,
+      "best": 2989,
+      "average": 3536,
+      "attempts": [
+        3884,
+        3480,
+        3670,
+        3459,
+        2989
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5768704,
+      "competition_id": "HangzhouSpring2024",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 13,
+      "best": 3296,
+      "average": 3928,
+      "attempts": [
+        4013,
+        3894,
+        4239,
+        3296,
+        3876
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5768839,
+      "competition_id": "HangzhouSpring2024",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 25,
+      "best": 394,
+      "average": 631,
+      "attempts": [
+        611,
+        911,
+        695,
+        588,
+        394
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5926443,
+      "competition_id": "NanchangSpring2024",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 16,
+      "best": 572,
+      "average": 808,
+      "attempts": [
+        799,
+        763,
+        863,
+        572,
+        1186
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5926562,
+      "competition_id": "NanchangSpring2024",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 5,
+      "best": 605,
+      "average": 654,
+      "attempts": [
+        770,
+        639,
+        709,
+        614,
+        605
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5926630,
+      "competition_id": "NanchangSpring2024",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 13,
+      "best": 646,
+      "average": 768,
+      "attempts": [
+        945,
+        796,
+        646,
+        690,
+        817
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5926638,
+      "competition_id": "NanchangSpring2024",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 5,
+      "best": 115,
+      "average": 254,
+      "attempts": [
+        217,
+        319,
+        115,
+        518,
+        227
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5926721,
+      "competition_id": "NanchangSpring2024",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 3,
+      "best": 144,
+      "average": 222,
+      "attempts": [
+        217,
+        192,
+        271,
+        144,
+        257
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5926751,
+      "competition_id": "NanchangSpring2024",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 17,
+      "best": 3101,
+      "average": 3995,
+      "attempts": [
+        4198,
+        4132,
+        3101,
+        5022,
+        3655
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5926900,
+      "competition_id": "NanchangSpring2024",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 49,
+      "best": 584,
+      "average": 907,
+      "attempts": [
+        584,
+        769,
+        -1,
+        869,
+        1083
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5926965,
+      "competition_id": "NanchangSpring2024",
+      "event_id": "skewb",
+      "round_type_id": "d",
+      "pos": 28,
+      "best": 534,
+      "average": 683,
+      "attempts": [
+        707,
+        675,
+        1197,
+        534,
+        668
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6029823,
+      "competition_id": "GuiyangOpen2024",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 6,
+      "best": 645,
+      "average": 667,
+      "attempts": [
+        649,
+        672,
+        851,
+        645,
+        681
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6029991,
+      "competition_id": "GuiyangOpen2024",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 12,
+      "best": 723,
+      "average": 761,
+      "attempts": [
+        723,
+        792,
+        886,
+        738,
+        752
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6030070,
+      "competition_id": "GuiyangOpen2024",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 3,
+      "best": 155,
+      "average": 181,
+      "attempts": [
+        182,
+        181,
+        155,
+        179,
+        247
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6030331,
+      "competition_id": "GuiyangOpen2024",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 21,
+      "best": 581,
+      "average": 711,
+      "attempts": [
+        581,
+        622,
+        913,
+        798,
+        713
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6030427,
+      "competition_id": "GuiyangOpen2024",
+      "event_id": "pyram",
+      "round_type_id": "2",
+      "pos": 20,
+      "best": 528,
+      "average": 672,
+      "attempts": [
+        716,
+        618,
+        916,
+        528,
+        682
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6044951,
+      "competition_id": "GuangzhouSpecial2024",
+      "event_id": "pyram",
+      "round_type_id": "1",
+      "pos": 25,
+      "best": 470,
+      "average": 614,
+      "attempts": [
+        782,
+        609,
+        751,
+        483,
+        470
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6045016,
+      "competition_id": "GuangzhouSpecial2024",
+      "event_id": "pyram",
+      "round_type_id": "2",
+      "pos": 21,
+      "best": 443,
+      "average": 592,
+      "attempts": [
+        443,
+        760,
+        648,
+        583,
+        544
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6045078,
+      "competition_id": "GuangzhouSpecial2024",
+      "event_id": "clock",
+      "round_type_id": "d",
+      "pos": 37,
+      "best": 1126,
+      "average": 1272,
+      "attempts": [
+        1334,
+        1215,
+        1267,
+        1126,
+        -1
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6045150,
+      "competition_id": "GuangzhouSpecial2024",
+      "event_id": "skewb",
+      "round_type_id": "1",
+      "pos": 31,
+      "best": 658,
+      "average": 778,
+      "attempts": [
+        761,
+        951,
+        680,
+        658,
+        893
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6045213,
+      "competition_id": "GuangzhouSpecial2024",
+      "event_id": "skewb",
+      "round_type_id": "2",
+      "pos": 29,
+      "best": 352,
+      "average": 745,
+      "attempts": [
+        1041,
+        911,
+        352,
+        561,
+        764
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6102827,
+      "competition_id": "ShenzhenNanshanOpen2024",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 8,
+      "best": 563,
+      "average": 799,
+      "attempts": [
+        813,
+        836,
+        563,
+        747,
+        952
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6103081,
+      "competition_id": "ShenzhenNanshanOpen2024",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 17,
+      "best": 695,
+      "average": 867,
+      "attempts": [
+        899,
+        695,
+        922,
+        892,
+        810
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6103202,
+      "competition_id": "ShenzhenNanshanOpen2024",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 3,
+      "best": 179,
+      "average": 242,
+      "attempts": [
+        248,
+        246,
+        231,
+        179,
+        307
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6103351,
+      "competition_id": "ShenzhenNanshanOpen2024",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 10,
+      "best": 185,
+      "average": 336,
+      "attempts": [
+        259,
+        230,
+        -1,
+        520,
+        185
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6103368,
+      "competition_id": "ShenzhenNanshanOpen2024",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 11,
+      "best": 3194,
+      "average": 3375,
+      "attempts": [
+        3351,
+        3428,
+        3194,
+        3436,
+        3345
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6103490,
+      "competition_id": "ShenzhenNanshanOpen2024",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 14,
+      "best": 3331,
+      "average": 3744,
+      "attempts": [
+        3331,
+        3465,
+        4604,
+        3893,
+        3874
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6103641,
+      "competition_id": "ShenzhenNanshanOpen2024",
+      "event_id": "skewb",
+      "round_type_id": "d",
+      "pos": 23,
+      "best": 408,
+      "average": 644,
+      "attempts": [
+        1284,
+        408,
+        592,
+        600,
+        740
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6218754,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 16,
+      "best": 715,
+      "average": 887,
+      "attempts": [
+        1063,
+        913,
+        877,
+        872,
+        715
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6218956,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 3,
+      "best": 649,
+      "average": 665,
+      "attempts": [
+        661,
+        663,
+        949,
+        649,
+        672
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6219071,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "333",
+      "round_type_id": "3",
+      "pos": 3,
+      "best": 670,
+      "average": 707,
+      "attempts": [
+        714,
+        703,
+        703,
+        816,
+        670
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6219145,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 7,
+      "best": 685,
+      "average": 755,
+      "attempts": [
+        828,
+        741,
+        685,
+        786,
+        739
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6219157,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "222",
+      "round_type_id": "1",
+      "pos": 3,
+      "best": 125,
+      "average": 203,
+      "attempts": [
+        131,
+        182,
+        295,
+        302,
+        125
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6219327,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "222",
+      "round_type_id": "2",
+      "pos": 3,
+      "best": 182,
+      "average": 241,
+      "attempts": [
+        229,
+        289,
+        182,
+        231,
+        262
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6219402,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 6,
+      "best": 248,
+      "average": 303,
+      "attempts": [
+        305,
+        321,
+        248,
+        284,
+        -1
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6219433,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 21,
+      "best": 3208,
+      "average": 3597,
+      "attempts": [
+        3208,
+        4086,
+        3428,
+        3441,
+        3922
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6219552,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "444",
+      "round_type_id": "2",
+      "pos": 19,
+      "best": 2647,
+      "average": 3576,
+      "attempts": [
+        4046,
+        3572,
+        2647,
+        3111,
+        4629
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6219644,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "555",
+      "round_type_id": "d",
+      "pos": 39,
+      "best": 7852,
+      "average": 8254,
+      "attempts": [
+        8016,
+        7852,
+        8793,
+        7954,
+        8996
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6220142,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "pyram",
+      "round_type_id": "1",
+      "pos": 20,
+      "best": 263,
+      "average": 583,
+      "attempts": [
+        441,
+        806,
+        627,
+        263,
+        680
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6220277,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "clock",
+      "round_type_id": "d",
+      "pos": 27,
+      "best": 1181,
+      "average": 1274,
+      "attempts": [
+        1239,
+        1359,
+        1225,
+        1181,
+        1421
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6220371,
+      "competition_id": "VietnamChampionship2024",
+      "event_id": "skewb",
+      "round_type_id": "1",
+      "pos": 35,
+      "best": 593,
+      "average": 842,
+      "attempts": [
+        593,
+        1104,
+        778,
+        645,
+        1404
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6221479,
+      "competition_id": "Huizhou10thAnniversary2024",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 5,
+      "best": 632,
+      "average": 690,
+      "attempts": [
+        667,
+        632,
+        726,
+        677,
+        802
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6221651,
+      "competition_id": "Huizhou10thAnniversary2024",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 5,
+      "best": 605,
+      "average": 638,
+      "attempts": [
+        914,
+        659,
+        612,
+        605,
+        642
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6221753,
+      "competition_id": "Huizhou10thAnniversary2024",
+      "event_id": "333",
+      "round_type_id": "3",
+      "pos": 7,
+      "best": 601,
+      "average": 700,
+      "attempts": [
+        793,
+        604,
+        601,
+        702,
+        882
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6221804,
+      "competition_id": "Huizhou10thAnniversary2024",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 8,
+      "best": 564,
+      "average": 761,
+      "attempts": [
+        852,
+        942,
+        800,
+        564,
+        632
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6221821,
+      "competition_id": "Huizhou10thAnniversary2024",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 9,
+      "best": 108,
+      "average": 309,
+      "attempts": [
+        108,
+        346,
+        655,
+        244,
+        337
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6221926,
+      "competition_id": "Huizhou10thAnniversary2024",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 3,
+      "best": 139,
+      "average": 206,
+      "attempts": [
+        139,
+        310,
+        192,
+        145,
+        282
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6222056,
+      "competition_id": "Huizhou10thAnniversary2024",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 15,
+      "best": 446,
+      "average": 521,
+      "attempts": [
+        542,
+        446,
+        -1,
+        575,
+        447
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6222121,
+      "competition_id": "Huizhou10thAnniversary2024",
+      "event_id": "pyram",
+      "round_type_id": "f",
+      "pos": 14,
+      "best": 383,
+      "average": 551,
+      "attempts": [
+        533,
+        478,
+        643,
+        666,
+        383
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6222160,
+      "competition_id": "Huizhou10thAnniversary2024",
+      "event_id": "skewb",
+      "round_type_id": "d",
+      "pos": 37,
+      "best": 467,
+      "average": 829,
+      "attempts": [
+        986,
+        467,
+        959,
+        996,
+        543
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6316570,
+      "competition_id": "GuangzhouBigCubes2024",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 19,
+      "best": 3091,
+      "average": 3363,
+      "attempts": [
+        3238,
+        3204,
+        3896,
+        3091,
+        3646
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6316685,
+      "competition_id": "GuangzhouBigCubes2024",
+      "event_id": "444",
+      "round_type_id": "2",
+      "pos": 34,
+      "best": 3528,
+      "average": 3861,
+      "attempts": [
+        3810,
+        3831,
+        3943,
+        3528,
+        3954
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6316744,
+      "competition_id": "GuangzhouBigCubes2024",
+      "event_id": "555",
+      "round_type_id": "d",
+      "pos": 33,
+      "best": 6064,
+      "average": 6801,
+      "attempts": [
+        6525,
+        7069,
+        7116,
+        6064,
+        6810
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6316861,
+      "competition_id": "GuangzhouBigCubes2024",
+      "event_id": "666",
+      "round_type_id": "d",
+      "pos": 43,
+      "best": 13981,
+      "average": 14517,
+      "attempts": [
+        13981,
+        14164,
+        15406,
+        0,
+        0
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6528981,
+      "competition_id": "GuilinOpen2024",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 5,
+      "best": 632,
+      "average": 680,
+      "attempts": [
+        867,
+        636,
+        730,
+        673,
+        632
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6529093,
+      "competition_id": "GuilinOpen2024",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 6,
+      "best": 627,
+      "average": 694,
+      "attempts": [
+        661,
+        627,
+        700,
+        720,
+        908
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6529154,
+      "competition_id": "GuilinOpen2024",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 7,
+      "best": 573,
+      "average": 750,
+      "attempts": [
+        796,
+        573,
+        624,
+        829,
+        903
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6529162,
+      "competition_id": "GuilinOpen2024",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 3,
+      "best": 118,
+      "average": 211,
+      "attempts": [
+        203,
+        118,
+        -1,
+        178,
+        251
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6529222,
+      "competition_id": "GuilinOpen2024",
+      "event_id": "222",
+      "round_type_id": "2",
+      "pos": 5,
+      "best": 140,
+      "average": 218,
+      "attempts": [
+        198,
+        241,
+        140,
+        227,
+        230
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6529266,
+      "competition_id": "GuilinOpen2024",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 6,
+      "best": 145,
+      "average": 253,
+      "attempts": [
+        328,
+        276,
+        283,
+        145,
+        200
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6529275,
+      "competition_id": "GuilinOpen2024",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 3,
+      "best": 2950,
+      "average": 3136,
+      "attempts": [
+        2950,
+        3201,
+        3888,
+        3244,
+        2963
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6529340,
+      "competition_id": "GuilinOpen2024",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 8,
+      "best": 2952,
+      "average": 3410,
+      "attempts": [
+        3181,
+        3490,
+        3560,
+        3604,
+        2952
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6529430,
+      "competition_id": "GuilinOpen2024",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 13,
+      "best": 453,
+      "average": 686,
+      "attempts": [
+        592,
+        824,
+        858,
+        641,
+        453
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6529479,
+      "competition_id": "GuilinOpen2024",
+      "event_id": "skewb",
+      "round_type_id": "d",
+      "pos": 17,
+      "best": 343,
+      "average": 732,
+      "attempts": [
+        1369,
+        1048,
+        343,
+        740,
+        409
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6573207,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 62,
+      "best": 724,
+      "average": 820,
+      "attempts": [
+        778,
+        1088,
+        929,
+        724,
+        752
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6573692,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 24,
+      "best": 597,
+      "average": 706,
+      "attempts": [
+        836,
+        659,
+        1097,
+        597,
+        622
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6573836,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "333",
+      "round_type_id": "3",
+      "pos": 19,
+      "best": 640,
+      "average": 672,
+      "attempts": [
+        666,
+        678,
+        640,
+        672,
+        815
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6573870,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 17,
+      "best": 614,
+      "average": 678,
+      "attempts": [
+        934,
+        649,
+        614,
+        672,
+        714
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6573916,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "222",
+      "round_type_id": "1",
+      "pos": 43,
+      "best": 129,
+      "average": 273,
+      "attempts": [
+        352,
+        283,
+        314,
+        222,
+        129
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6574316,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "222",
+      "round_type_id": "2",
+      "pos": 21,
+      "best": 162,
+      "average": 219,
+      "attempts": [
+        327,
+        170,
+        166,
+        162,
+        322
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6574484,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "444",
+      "round_type_id": "1",
+      "pos": 48,
+      "best": 2793,
+      "average": 3172,
+      "attempts": [
+        2793,
+        3002,
+        3598,
+        3455,
+        3058
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6574774,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "444",
+      "round_type_id": "2",
+      "pos": 27,
+      "best": 2636,
+      "average": 2927,
+      "attempts": [
+        3267,
+        2789,
+        2726,
+        3408,
+        2636
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6574939,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "555",
+      "round_type_id": "1",
+      "pos": 81,
+      "best": 5780,
+      "average": 6545,
+      "attempts": [
+        5831,
+        5780,
+        7175,
+        6631,
+        7172
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6576334,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "pyram",
+      "round_type_id": "1",
+      "pos": 154,
+      "best": 557,
+      "average": 689,
+      "attempts": [
+        762,
+        580,
+        761,
+        726,
+        557
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6576797,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "clock",
+      "round_type_id": "1",
+      "pos": 118,
+      "best": 1041,
+      "average": 1157,
+      "attempts": [
+        1162,
+        1263,
+        1046,
+        1301,
+        1041
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6577047,
+      "competition_id": "RubiksWCAAsianChampionship2024",
+      "event_id": "skewb",
+      "round_type_id": "1",
+      "pos": 115,
+      "best": 499,
+      "average": 648,
+      "attempts": [
+        955,
+        499,
+        920,
+        513,
+        512
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6675536,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 7,
+      "best": 655,
+      "average": 714,
+      "attempts": [
+        668,
+        743,
+        655,
+        730,
+        842
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6675769,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 17,
+      "best": 568,
+      "average": 789,
+      "attempts": [
+        793,
+        820,
+        895,
+        753,
+        568
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6675856,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 4,
+      "best": 635,
+      "average": 663,
+      "attempts": [
+        645,
+        680,
+        767,
+        635,
+        663
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6675880,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 10,
+      "best": 175,
+      "average": 262,
+      "attempts": [
+        402,
+        180,
+        175,
+        443,
+        203
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6676015,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 6,
+      "best": 108,
+      "average": 257,
+      "attempts": [
+        196,
+        401,
+        210,
+        365,
+        108
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6676031,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 4,
+      "best": 2416,
+      "average": 2932,
+      "attempts": [
+        2774,
+        2416,
+        2839,
+        3208,
+        3183
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6676152,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 4,
+      "best": 2576,
+      "average": 2861,
+      "attempts": [
+        3100,
+        2576,
+        3311,
+        2863,
+        2619
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6676224,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "333oh",
+      "round_type_id": "d",
+      "pos": 58,
+      "best": 1718,
+      "average": 2218,
+      "attempts": [
+        1718,
+        2204,
+        2311,
+        2493,
+        2138
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6676316,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 33,
+      "best": 526,
+      "average": 673,
+      "attempts": [
+        526,
+        828,
+        791,
+        700,
+        528
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693075,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 1,
+      "best": 604,
+      "average": 710,
+      "attempts": [
+        815,
+        604,
+        631,
+        684,
+        896
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693169,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 1,
+      "best": 647,
+      "average": 677,
+      "attempts": [
+        685,
+        647,
+        698,
+        671,
+        674
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693179,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 4,
+      "best": 585,
+      "average": 723,
+      "attempts": [
+        793,
+        734,
+        641,
+        585,
+        -1
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693193,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "222",
+      "round_type_id": "1",
+      "pos": 1,
+      "best": 168,
+      "average": 220,
+      "attempts": [
+        217,
+        255,
+        188,
+        168,
+        407
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693260,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "222",
+      "round_type_id": "2",
+      "pos": 3,
+      "best": 160,
+      "average": 240,
+      "attempts": [
+        161,
+        160,
+        262,
+        296,
+        346
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693293,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 1,
+      "best": 149,
+      "average": 170,
+      "attempts": [
+        153,
+        198,
+        160,
+        -1,
+        149
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693310,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 4,
+      "best": 2320,
+      "average": 2750,
+      "attempts": [
+        2491,
+        2320,
+        3141,
+        2854,
+        2905
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693349,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 5,
+      "best": 2802,
+      "average": 3086,
+      "attempts": [
+        3564,
+        2802,
+        3151,
+        3261,
+        2846
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693363,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "555",
+      "round_type_id": "d",
+      "pos": 4,
+      "best": 5316,
+      "average": 6001,
+      "attempts": [
+        5853,
+        6689,
+        5316,
+        7139,
+        5461
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693388,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "555",
+      "round_type_id": "f",
+      "pos": 5,
+      "best": 5740,
+      "average": 6257,
+      "attempts": [
+        6298,
+        6540,
+        5933,
+        5740,
+        6568
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693437,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "333oh",
+      "round_type_id": "1",
+      "pos": 25,
+      "best": 1872,
+      "average": 2572,
+      "attempts": [
+        2411,
+        2070,
+        -1,
+        3234,
+        1872
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693477,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "pyram",
+      "round_type_id": "1",
+      "pos": 6,
+      "best": 499,
+      "average": 561,
+      "attempts": [
+        689,
+        626,
+        550,
+        506,
+        499
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6693509,
+      "competition_id": "HanoiWinter2024",
+      "event_id": "pyram",
+      "round_type_id": "f",
+      "pos": 5,
+      "best": 462,
+      "average": 568,
+      "attempts": [
+        614,
+        462,
+        589,
+        660,
+        502
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6759221,
+      "competition_id": "ChongqingNewYear2025",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 4,
+      "best": 588,
+      "average": 622,
+      "attempts": [
+        588,
+        947,
+        593,
+        607,
+        665
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6759409,
+      "competition_id": "ChongqingNewYear2025",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 12,
+      "best": 579,
+      "average": 699,
+      "attempts": [
+        689,
+        754,
+        742,
+        579,
+        667
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6759508,
+      "competition_id": "ChongqingNewYear2025",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 3,
+      "best": 112,
+      "average": 138,
+      "attempts": [
+        141,
+        152,
+        251,
+        112,
+        120
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6759608,
+      "competition_id": "ChongqingNewYear2025",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 10,
+      "best": 168,
+      "average": 262,
+      "attempts": [
+        311,
+        261,
+        293,
+        232,
+        168
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6759620,
+      "competition_id": "ChongqingNewYear2025",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 6,
+      "best": 2500,
+      "average": 2753,
+      "attempts": [
+        2500,
+        3013,
+        2657,
+        2895,
+        2706
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6759690,
+      "competition_id": "ChongqingNewYear2025",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 7,
+      "best": 2620,
+      "average": 2987,
+      "attempts": [
+        3056,
+        2620,
+        3102,
+        2834,
+        3072
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6759711,
+      "competition_id": "ChongqingNewYear2025",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 12,
+      "best": 511,
+      "average": 563,
+      "attempts": [
+        577,
+        588,
+        511,
+        523,
+        765
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6759763,
+      "competition_id": "ChongqingNewYear2025",
+      "event_id": "pyram",
+      "round_type_id": "f",
+      "pos": 14,
+      "best": 547,
+      "average": 635,
+      "attempts": [
+        584,
+        547,
+        695,
+        671,
+        649
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828493,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 1,
+      "best": 563,
+      "average": 614,
+      "attempts": [
+        611,
+        903,
+        619,
+        563,
+        611
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828536,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 1,
+      "best": 620,
+      "average": 698,
+      "attempts": [
+        830,
+        759,
+        620,
+        699,
+        635
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828570,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "333",
+      "round_type_id": "3",
+      "pos": 3,
+      "best": 573,
+      "average": 711,
+      "attempts": [
+        856,
+        697,
+        764,
+        573,
+        673
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828578,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 1,
+      "best": 540,
+      "average": 611,
+      "attempts": [
+        766,
+        597,
+        540,
+        649,
+        587
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828605,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "222",
+      "round_type_id": "1",
+      "pos": 11,
+      "best": 151,
+      "average": 240,
+      "attempts": [
+        151,
+        -1,
+        157,
+        242,
+        321
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828740,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "222",
+      "round_type_id": "2",
+      "pos": 5,
+      "best": 114,
+      "average": 215,
+      "attempts": [
+        243,
+        236,
+        114,
+        166,
+        -1
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828748,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 3,
+      "best": 177,
+      "average": 187,
+      "attempts": [
+        197,
+        181,
+        184,
+        356,
+        177
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828801,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "444",
+      "round_type_id": "1",
+      "pos": 4,
+      "best": 2390,
+      "average": 2744,
+      "attempts": [
+        2634,
+        3035,
+        2563,
+        3051,
+        2390
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828854,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "444",
+      "round_type_id": "2",
+      "pos": 2,
+      "best": 2146,
+      "average": 2615,
+      "attempts": [
+        2677,
+        2595,
+        2573,
+        2842,
+        2146
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828864,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 6,
+      "best": 2733,
+      "average": 2850,
+      "attempts": [
+        2733,
+        2997,
+        3209,
+        2759,
+        2793
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828900,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "555",
+      "round_type_id": "1",
+      "pos": 15,
+      "best": 5173,
+      "average": 5728,
+      "attempts": [
+        6176,
+        5876,
+        5173,
+        5611,
+        5696
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6828946,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "666",
+      "round_type_id": "1",
+      "pos": 23,
+      "best": 12123,
+      "average": 12899,
+      "attempts": [
+        13631,
+        12123,
+        12943,
+        0,
+        0
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6829083,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "333oh",
+      "round_type_id": "1",
+      "pos": 58,
+      "best": 1584,
+      "average": 2210,
+      "attempts": [
+        2676,
+        3007,
+        2179,
+        1584,
+        1774
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6829255,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "pyram",
+      "round_type_id": "1",
+      "pos": 31,
+      "best": 353,
+      "average": 579,
+      "attempts": [
+        502,
+        549,
+        353,
+        737,
+        686
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6829363,
+      "competition_id": "SingaporeChampionship2025",
+      "event_id": "clock",
+      "round_type_id": "1",
+      "pos": 39,
+      "best": 729,
+      "average": 976,
+      "attempts": [
+        751,
+        729,
+        -1,
+        1423,
+        754
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7004501,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 5,
+      "best": 536,
+      "average": 571,
+      "attempts": [
+        608,
+        567,
+        536,
+        538,
+        784
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7004813,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 12,
+      "best": 620,
+      "average": 677,
+      "attempts": [
+        803,
+        620,
+        665,
+        672,
+        693
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7005021,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "333",
+      "round_type_id": "3",
+      "pos": 12,
+      "best": 561,
+      "average": 661,
+      "attempts": [
+        582,
+        708,
+        561,
+        768,
+        693
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7005100,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 11,
+      "best": 653,
+      "average": 675,
+      "attempts": [
+        659,
+        693,
+        1111,
+        653,
+        672
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7005108,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 7,
+      "best": 125,
+      "average": 154,
+      "attempts": [
+        125,
+        178,
+        353,
+        144,
+        141
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7005306,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "222",
+      "round_type_id": "2",
+      "pos": 17,
+      "best": 137,
+      "average": 243,
+      "attempts": [
+        221,
+        260,
+        137,
+        -1,
+        247
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7005407,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 9,
+      "best": 121,
+      "average": 189,
+      "attempts": [
+        381,
+        178,
+        154,
+        234,
+        121
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7005427,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 5,
+      "best": 2493,
+      "average": 2642,
+      "attempts": [
+        2750,
+        2765,
+        2493,
+        2531,
+        2644
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7005599,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 9,
+      "best": 2483,
+      "average": 2744,
+      "attempts": [
+        2831,
+        2528,
+        2483,
+        2895,
+        2872
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7005631,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "555",
+      "round_type_id": "d",
+      "pos": 17,
+      "best": 5297,
+      "average": 5697,
+      "attempts": [
+        5560,
+        5524,
+        6007,
+        5297,
+        6672
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7005750,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "555",
+      "round_type_id": "f",
+      "pos": 14,
+      "best": 4945,
+      "average": 5766,
+      "attempts": [
+        4945,
+        6014,
+        5997,
+        5487,
+        5814
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7005804,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "666",
+      "round_type_id": "d",
+      "pos": 46,
+      "best": 12249,
+      "average": 13739,
+      "attempts": [
+        14941,
+        14028,
+        12249,
+        0,
+        0
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7006131,
+      "competition_id": "XianCherryBlossom2025",
+      "event_id": "333oh",
+      "round_type_id": "d",
+      "pos": 103,
+      "best": 1939,
+      "average": 2487,
+      "attempts": [
+        2312,
+        2587,
+        3168,
+        2563,
+        1939
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7191211,
+      "competition_id": "HongKongCubeDay2025",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 2,
+      "best": 601,
+      "average": 711,
+      "attempts": [
+        737,
+        714,
+        682,
+        889,
+        601
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7191262,
+      "competition_id": "HongKongCubeDay2025",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 1,
+      "best": 545,
+      "average": 627,
+      "attempts": [
+        545,
+        615,
+        581,
+        708,
+        684
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7191270,
+      "competition_id": "HongKongCubeDay2025",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 2,
+      "best": 619,
+      "average": 676,
+      "attempts": [
+        729,
+        671,
+        619,
+        717,
+        639
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7191316,
+      "competition_id": "HongKongCubeDay2025",
+      "event_id": "222",
+      "round_type_id": "1",
+      "pos": 2,
+      "best": 114,
+      "average": 168,
+      "attempts": [
+        114,
+        196,
+        162,
+        224,
+        147
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7191403,
+      "competition_id": "HongKongCubeDay2025",
+      "event_id": "222",
+      "round_type_id": "2",
+      "pos": 1,
+      "best": 123,
+      "average": 155,
+      "attempts": [
+        137,
+        157,
+        172,
+        123,
+        235
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7191418,
+      "competition_id": "HongKongCubeDay2025",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 5,
+      "best": 106,
+      "average": 216,
+      "attempts": [
+        304,
+        153,
+        191,
+        -1,
+        106
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7191434,
+      "competition_id": "HongKongCubeDay2025",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 5,
+      "best": 2857,
+      "average": 2964,
+      "attempts": [
+        2891,
+        2857,
+        3292,
+        2897,
+        3103
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7191495,
+      "competition_id": "HongKongCubeDay2025",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 5,
+      "best": 2595,
+      "average": 2892,
+      "attempts": [
+        2675,
+        2975,
+        3077,
+        2595,
+        3026
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7223477,
+      "competition_id": "ZhuhaiOpen2025",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 7,
+      "best": 650,
+      "average": 679,
+      "attempts": [
+        660,
+        650,
+        835,
+        661,
+        716
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7223669,
+      "competition_id": "ZhuhaiOpen2025",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 9,
+      "best": 530,
+      "average": 695,
+      "attempts": [
+        875,
+        752,
+        638,
+        696,
+        530
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7223763,
+      "competition_id": "ZhuhaiOpen2025",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 5,
+      "best": 527,
+      "average": 621,
+      "attempts": [
+        596,
+        527,
+        686,
+        844,
+        582
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7223778,
+      "competition_id": "ZhuhaiOpen2025",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 4,
+      "best": 152,
+      "average": 217,
+      "attempts": [
+        546,
+        305,
+        179,
+        167,
+        152
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7223885,
+      "competition_id": "ZhuhaiOpen2025",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 4,
+      "best": 100,
+      "average": 185,
+      "attempts": [
+        151,
+        519,
+        293,
+        111,
+        100
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7223929,
+      "competition_id": "ZhuhaiOpen2025",
+      "event_id": "333oh",
+      "round_type_id": "d",
+      "pos": 32,
+      "best": 1696,
+      "average": 1874,
+      "attempts": [
+        1696,
+        2444,
+        2217,
+        1707,
+        1698
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7429201,
+      "competition_id": "JiangmenOpen2025",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 14,
+      "best": 468,
+      "average": 734,
+      "attempts": [
+        468,
+        852,
+        680,
+        671,
+        895
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7429386,
+      "competition_id": "JiangmenOpen2025",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 9,
+      "best": 548,
+      "average": 638,
+      "attempts": [
+        699,
+        956,
+        608,
+        608,
+        548
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7429468,
+      "competition_id": "JiangmenOpen2025",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 11,
+      "best": 634,
+      "average": 695,
+      "attempts": [
+        634,
+        686,
+        752,
+        741,
+        658
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7429481,
+      "competition_id": "JiangmenOpen2025",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 8,
+      "best": 151,
+      "average": 196,
+      "attempts": [
+        151,
+        334,
+        203,
+        158,
+        228
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7429615,
+      "competition_id": "JiangmenOpen2025",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 5,
+      "best": 126,
+      "average": 174,
+      "attempts": [
+        210,
+        126,
+        352,
+        158,
+        153
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7429632,
+      "competition_id": "JiangmenOpen2025",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 6,
+      "best": 2248,
+      "average": 2639,
+      "attempts": [
+        2432,
+        3185,
+        2803,
+        2248,
+        2683
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7429737,
+      "competition_id": "JiangmenOpen2025",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 7,
+      "best": 2702,
+      "average": 2855,
+      "attempts": [
+        2702,
+        2821,
+        3146,
+        2832,
+        2911
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7429773,
+      "competition_id": "JiangmenOpen2025",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 27,
+      "best": 413,
+      "average": 647,
+      "attempts": [
+        601,
+        532,
+        807,
+        971,
+        413
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7429845,
+      "competition_id": "JiangmenOpen2025",
+      "event_id": "clock",
+      "round_type_id": "d",
+      "pos": 23,
+      "best": 796,
+      "average": 967,
+      "attempts": [
+        796,
+        982,
+        -1,
+        909,
+        1010
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7469689,
+      "competition_id": "QuangangAfternoon2025",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 1,
+      "best": 654,
+      "average": 683,
+      "attempts": [
+        709,
+        677,
+        665,
+        708,
+        654
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7469758,
+      "competition_id": "QuangangAfternoon2025",
+      "event_id": "222",
+      "round_type_id": "c",
+      "pos": 1,
+      "best": 148,
+      "average": 205,
+      "attempts": [
+        150,
+        380,
+        305,
+        148,
+        161
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7469801,
+      "competition_id": "QuangangAfternoon2025",
+      "event_id": "444",
+      "round_type_id": "c",
+      "pos": 2,
+      "best": 2229,
+      "average": 2740,
+      "attempts": [
+        2628,
+        2928,
+        3149,
+        2664,
+        2229
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7469848,
+      "competition_id": "QuangangAfternoon2025",
+      "event_id": "pyram",
+      "round_type_id": "c",
+      "pos": 6,
+      "best": 376,
+      "average": 552,
+      "attempts": [
+        703,
+        538,
+        480,
+        639,
+        376
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7706551,
+      "competition_id": "GuangzhouSmallCubes2025",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 10,
+      "best": 608,
+      "average": 665,
+      "attempts": [
+        663,
+        719,
+        608,
+        1087,
+        612
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7706752,
+      "competition_id": "GuangzhouSmallCubes2025",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 8,
+      "best": 597,
+      "average": 644,
+      "attempts": [
+        631,
+        597,
+        615,
+        771,
+        685
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7706852,
+      "competition_id": "GuangzhouSmallCubes2025",
+      "event_id": "333",
+      "round_type_id": "3",
+      "pos": 9,
+      "best": 576,
+      "average": 696,
+      "attempts": [
+        661,
+        782,
+        734,
+        576,
+        692
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7706890,
+      "competition_id": "GuangzhouSmallCubes2025",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 7,
+      "best": 548,
+      "average": 622,
+      "attempts": [
+        625,
+        614,
+        548,
+        626,
+        665
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7706909,
+      "competition_id": "GuangzhouSmallCubes2025",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 6,
+      "best": 132,
+      "average": 202,
+      "attempts": [
+        132,
+        238,
+        174,
+        193,
+        426
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7707051,
+      "competition_id": "GuangzhouSmallCubes2025",
+      "event_id": "222",
+      "round_type_id": "2",
+      "pos": 3,
+      "best": 165,
+      "average": 181,
+      "attempts": [
+        181,
+        172,
+        196,
+        165,
+        190
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7707134,
+      "competition_id": "GuangzhouSmallCubes2025",
+      "event_id": "222",
+      "round_type_id": "3",
+      "pos": 6,
+      "best": 150,
+      "average": 200,
+      "attempts": [
+        181,
+        221,
+        236,
+        150,
+        197
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7707171,
+      "competition_id": "GuangzhouSmallCubes2025",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 3,
+      "best": 127,
+      "average": 161,
+      "attempts": [
+        159,
+        187,
+        136,
+        326,
+        127
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7808656,
+      "competition_id": "GuangzhouBigCubes2025",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 3,
+      "best": 2380,
+      "average": 2574,
+      "attempts": [
+        2506,
+        2654,
+        2704,
+        2380,
+        2563
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7808769,
+      "competition_id": "GuangzhouBigCubes2025",
+      "event_id": "444",
+      "round_type_id": "2",
+      "pos": 2,
+      "best": 2067,
+      "average": 2459,
+      "attempts": [
+        2067,
+        2556,
+        2543,
+        2523,
+        2312
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7808830,
+      "competition_id": "GuangzhouBigCubes2025",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 5,
+      "best": 2291,
+      "average": 2552,
+      "attempts": [
+        2514,
+        2637,
+        2504,
+        2291,
+        2638
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7808855,
+      "competition_id": "GuangzhouBigCubes2025",
+      "event_id": "555",
+      "round_type_id": "d",
+      "pos": 14,
+      "best": 4459,
+      "average": 5742,
+      "attempts": [
+        8391,
+        6131,
+        5600,
+        4459,
+        5496
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7808962,
+      "competition_id": "GuangzhouBigCubes2025",
+      "event_id": "555",
+      "round_type_id": "f",
+      "pos": 12,
+      "best": 4718,
+      "average": 5706,
+      "attempts": [
+        5845,
+        5349,
+        5925,
+        6436,
+        4718
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7920261,
+      "competition_id": "GuangdongRevivalRival2026",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 39,
+      "best": 473,
+      "average": 755,
+      "attempts": [
+        473,
+        844,
+        698,
+        864,
+        723
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7920973,
+      "competition_id": "GuangdongRevivalRival2026",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 10,
+      "best": 545,
+      "average": 581,
+      "attempts": [
+        605,
+        577,
+        561,
+        675,
+        545
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7921040,
+      "competition_id": "GuangdongRevivalRival2026",
+      "event_id": "333",
+      "round_type_id": "3",
+      "pos": 15,
+      "best": 551,
+      "average": 649,
+      "attempts": [
+        755,
+        611,
+        708,
+        628,
+        551
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7921230,
+      "competition_id": "GuangdongRevivalRival2026",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 11,
+      "best": 103,
+      "average": 168,
+      "attempts": [
+        164,
+        179,
+        160,
+        209,
+        103
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7921448,
+      "competition_id": "GuangdongRevivalRival2026",
+      "event_id": "222",
+      "round_type_id": "2",
+      "pos": 3,
+      "best": 115,
+      "average": 153,
+      "attempts": [
+        132,
+        190,
+        115,
+        263,
+        138
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7921560,
+      "competition_id": "GuangdongRevivalRival2026",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 17,
+      "best": 106,
+      "average": 271,
+      "attempts": [
+        -1,
+        445,
+        183,
+        186,
+        106
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7921685,
+      "competition_id": "GuangdongRevivalRival2026",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 7,
+      "best": 2371,
+      "average": 2548,
+      "attempts": [
+        2514,
+        2680,
+        2449,
+        2371,
+        3032
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7921879,
+      "competition_id": "GuangdongRevivalRival2026",
+      "event_id": "444",
+      "round_type_id": "2",
+      "pos": 19,
+      "best": 2345,
+      "average": 2948,
+      "attempts": [
+        2913,
+        2345,
+        3072,
+        3069,
+        2861
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7922131,
+      "competition_id": "GuangdongRevivalRival2026",
+      "event_id": "555",
+      "round_type_id": "d",
+      "pos": 19,
+      "best": 4378,
+      "average": 5468,
+      "attempts": [
+        5446,
+        6207,
+        4915,
+        4378,
+        6043
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7923738,
+      "competition_id": "GuangdongRevivalRival2026",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 12,
+      "best": 517,
+      "average": 0,
+      "attempts": [
+        657,
+        722,
+        517,
+        0,
+        0
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7982027,
+      "competition_id": "ZhuhaiPiDay2026",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 5,
+      "best": 446,
+      "average": 619,
+      "attempts": [
+        446,
+        618,
+        606,
+        1053,
+        633
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7982262,
+      "competition_id": "ZhuhaiPiDay2026",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 30,
+      "best": 677,
+      "average": 865,
+      "attempts": [
+        859,
+        884,
+        677,
+        985,
+        853
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7982341,
+      "competition_id": "ZhuhaiPiDay2026",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 12,
+      "best": 140,
+      "average": 272,
+      "attempts": [
+        474,
+        266,
+        140,
+        316,
+        235
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7982455,
+      "competition_id": "ZhuhaiPiDay2026",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 3,
+      "best": 121,
+      "average": 161,
+      "attempts": [
+        129,
+        279,
+        193,
+        121,
+        160
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7982553,
+      "competition_id": "ZhuhaiPiDay2026",
+      "event_id": "555",
+      "round_type_id": "d",
+      "pos": 9,
+      "best": 4647,
+      "average": 5381,
+      "attempts": [
+        5712,
+        5509,
+        5122,
+        5513,
+        4647
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 7982621,
+      "competition_id": "ZhuhaiPiDay2026",
+      "event_id": "555",
+      "round_type_id": "f",
+      "pos": 6,
+      "best": 4370,
+      "average": 5055,
+      "attempts": [
+        5149,
+        5154,
+        4914,
+        4370,
+        5103
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8129733,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 14,
+      "best": 577,
+      "average": 679,
+      "attempts": [
+        577,
+        874,
+        713,
+        646,
+        677
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8130289,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 11,
+      "best": 647,
+      "average": 703,
+      "attempts": [
+        761,
+        647,
+        647,
+        884,
+        700
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8130580,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "333",
+      "round_type_id": "3",
+      "pos": 15,
+      "best": 525,
+      "average": 705,
+      "attempts": [
+        683,
+        764,
+        669,
+        781,
+        525
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8130678,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 16,
+      "best": 622,
+      "average": 751,
+      "attempts": [
+        622,
+        772,
+        793,
+        750,
+        731
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8130690,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 8,
+      "best": 129,
+      "average": 231,
+      "attempts": [
+        211,
+        129,
+        290,
+        290,
+        193
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8130950,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "222",
+      "round_type_id": "2",
+      "pos": 12,
+      "best": 118,
+      "average": 262,
+      "attempts": [
+        121,
+        449,
+        558,
+        216,
+        118
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8131084,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 3,
+      "best": 120,
+      "average": 134,
+      "attempts": [
+        127,
+        120,
+        139,
+        173,
+        137
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8131106,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 5,
+      "best": 2382,
+      "average": 2709,
+      "attempts": [
+        2382,
+        3098,
+        2500,
+        -1,
+        2530
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8131272,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "444",
+      "round_type_id": "2",
+      "pos": 2,
+      "best": 2321,
+      "average": 2646,
+      "attempts": [
+        2494,
+        3113,
+        2321,
+        2514,
+        2930
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8131372,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 5,
+      "best": 2299,
+      "average": 2695,
+      "attempts": [
+        2833,
+        2299,
+        3020,
+        2458,
+        2794
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8131455,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "333oh",
+      "round_type_id": "d",
+      "pos": 68,
+      "best": 1831,
+      "average": 1935,
+      "attempts": [
+        1892,
+        2080,
+        3180,
+        1831,
+        1834
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8132012,
+      "competition_id": "FoshanOpen2026",
+      "event_id": "clock",
+      "round_type_id": "d",
+      "pos": 34,
+      "best": 814,
+      "average": 972,
+      "attempts": [
+        814,
+        948,
+        1125,
+        1064,
+        905
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593856,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 39,
+      "best": 552,
+      "average": 755,
+      "attempts": [
+        779,
+        940,
+        552,
+        827,
+        659
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593857,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 24,
+      "best": 593,
+      "average": 684,
+      "attempts": [
+        593,
+        859,
+        667,
+        663,
+        723
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593858,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "333",
+      "round_type_id": "3",
+      "pos": 28,
+      "best": 579,
+      "average": 731,
+      "attempts": [
+        772,
+        785,
+        661,
+        761,
+        579
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593859,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 21,
+      "best": 178,
+      "average": 219,
+      "attempts": [
+        268,
+        356,
+        202,
+        178,
+        187
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593860,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "222",
+      "round_type_id": "2",
+      "pos": 23,
+      "best": 104,
+      "average": 252,
+      "attempts": [
+        139,
+        446,
+        104,
+        252,
+        364
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593861,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "222",
+      "round_type_id": "3",
+      "pos": 20,
+      "best": 199,
+      "average": 225,
+      "attempts": [
+        271,
+        232,
+        208,
+        199,
+        234
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593862,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "222",
+      "round_type_id": "f",
+      "pos": 16,
+      "best": 136,
+      "average": 233,
+      "attempts": [
+        355,
+        200,
+        136,
+        -1,
+        143
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593863,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 12,
+      "best": 2491,
+      "average": 2668,
+      "attempts": [
+        2856,
+        2614,
+        2811,
+        2578,
+        2491
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593864,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "444",
+      "round_type_id": "2",
+      "pos": 9,
+      "best": 2110,
+      "average": 2525,
+      "attempts": [
+        2517,
+        3007,
+        2378,
+        2680,
+        2110
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593865,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "444",
+      "round_type_id": "3",
+      "pos": 22,
+      "best": 2859,
+      "average": 3055,
+      "attempts": [
+        2903,
+        3361,
+        2859,
+        2900,
+        4004
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593866,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "555",
+      "round_type_id": "d",
+      "pos": 16,
+      "best": 5174,
+      "average": 5740,
+      "attempts": [
+        5174,
+        5936,
+        5881,
+        6149,
+        5404
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593867,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "555",
+      "round_type_id": "2",
+      "pos": 12,
+      "best": 4831,
+      "average": 5580,
+      "attempts": [
+        6135,
+        6258,
+        5049,
+        4831,
+        5556
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593868,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "555",
+      "round_type_id": "3",
+      "pos": 10,
+      "best": 4990,
+      "average": 5362,
+      "attempts": [
+        4990,
+        5262,
+        5418,
+        -1,
+        5405
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8593869,
+      "competition_id": "GuangzhouGrandOpen2026",
+      "event_id": "555",
+      "round_type_id": "f",
+      "pos": 16,
+      "best": 4456,
+      "average": 5752,
+      "attempts": [
+        5878,
+        6318,
+        5585,
+        4456,
+        5793
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    }
+  ],
+  "competitions": [
+    {
+      "id": "ShenzhenGoodMorning2021",
+      "name": "Shenzhen Good Morning 2021",
+      "start_date": "2021-01-09",
+      "end_date": "2021-01-09",
+      "city": "Shenzhen, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "ShenzhenNanshanMorning2021",
+      "name": "Shenzhen Nanshan Morning 2021",
+      "start_date": "2021-03-28",
+      "end_date": "2021-03-28",
+      "city": "Shenzhen, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "ChongqingOpen2023",
+      "name": "Chongqing Open 2023",
+      "start_date": "2023-11-18",
+      "end_date": "2023-11-18",
+      "city": "Chongqing",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "ShenzhenYouthOpen2023",
+      "name": "Shenzhen Youth Open 2023",
+      "start_date": "2023-11-26",
+      "end_date": "2023-11-26",
+      "city": "Shenzhen, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "ChangshaOpen2023",
+      "name": "Changsha Open 2023",
+      "start_date": "2023-12-23",
+      "end_date": "2023-12-23",
+      "city": "Changsha, Hunan",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "ShenzhenOpen2023",
+      "name": "Shenzhen Open 2023",
+      "start_date": "2023-12-24",
+      "end_date": "2023-12-24",
+      "city": "Shenzhen, Guangdong Province",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "HangzhouSpring2024",
+      "name": "Hangzhou Spring 2024",
+      "start_date": "2024-03-02",
+      "end_date": "2024-03-02",
+      "city": "Hangzhou, Zhejiang",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "NanchangSpring2024",
+      "name": "Nanchang Spring 2024",
+      "start_date": "2024-04-21",
+      "end_date": "2024-04-21",
+      "city": "Nanchang, Jiangxi",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "GuiyangOpen2024",
+      "name": "Guiyang Open 2024",
+      "start_date": "2024-05-26",
+      "end_date": "2024-05-26",
+      "city": "Guiyang, Guizhou",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "GuangzhouSpecial2024",
+      "name": "Guangzhou Special 2024",
+      "start_date": "2024-06-02",
+      "end_date": "2024-06-02",
+      "city": "Guangzhou, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "ShenzhenNanshanOpen2024",
+      "name": "Shenzhen Nanshan Open 2024",
+      "start_date": "2024-06-22",
+      "end_date": "2024-06-22",
+      "city": "Shenzhen, Guangdong Province",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "VietnamChampionship2024",
+      "name": "Vietnam Championship 2024",
+      "start_date": "2024-07-19",
+      "end_date": "2024-07-21",
+      "city": "Hanoi",
+      "country_iso2": "VN"
+    },
+    {
+      "id": "Huizhou10thAnniversary2024",
+      "name": "Huizhou 10th Anniversary 2024",
+      "start_date": "2024-07-28",
+      "end_date": "2024-07-28",
+      "city": "Huizhou, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "GuangzhouBigCubes2024",
+      "name": "Guangzhou Big Cubes 2024",
+      "start_date": "2024-08-18",
+      "end_date": "2024-08-18",
+      "city": "Guangzhou, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "GuilinOpen2024",
+      "name": "Guilin Open 2024",
+      "start_date": "2024-10-20",
+      "end_date": "2024-10-20",
+      "city": "Guilin, Guangxi",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "RubiksWCAAsianChampionship2024",
+      "name": "Rubik's WCA Asian Championship 2024",
+      "start_date": "2024-11-01",
+      "end_date": "2024-11-04",
+      "city": "Putrajaya",
+      "country_iso2": "MY"
+    },
+    {
+      "id": "ShenzhenOpen2024",
+      "name": "Shenzhen Open 2024",
+      "start_date": "2024-12-07",
+      "end_date": "2024-12-07",
+      "city": "Shenzhen, Guangdong Province",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "HanoiWinter2024",
+      "name": "Hanoi Winter 2024",
+      "start_date": "2024-12-14",
+      "end_date": "2024-12-15",
+      "city": "Hanoi",
+      "country_iso2": "VN"
+    },
+    {
+      "id": "ChongqingNewYear2025",
+      "name": "Chongqing New Year 2025",
+      "start_date": "2025-01-12",
+      "end_date": "2025-01-12",
+      "city": "Chongqing",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "SingaporeChampionship2025",
+      "name": "Singapore Championship 2025",
+      "start_date": "2025-02-07",
+      "end_date": "2025-02-09",
+      "city": "Singapore",
+      "country_iso2": "SG"
+    },
+    {
+      "id": "XianCherryBlossom2025",
+      "name": "Xi'an Cherry Blossom 2025",
+      "start_date": "2025-04-04",
+      "end_date": "2025-04-05",
+      "city": "Xi'an, Shaanxi",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "HongKongCubeDay2025",
+      "name": "Hong Kong Cube Day 2025",
+      "start_date": "2025-06-07",
+      "end_date": "2025-06-07",
+      "city": "Hong Kong",
+      "country_iso2": "HK"
+    },
+    {
+      "id": "ZhuhaiOpen2025",
+      "name": "Zhuhai Open 2025",
+      "start_date": "2025-06-15",
+      "end_date": "2025-06-15",
+      "city": "Zhuhai, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "JiangmenOpen2025",
+      "name": "Jiangmen Open 2025",
+      "start_date": "2025-08-24",
+      "end_date": "2025-08-24",
+      "city": "Jiangmen, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "QuangangAfternoon2025",
+      "name": "Quangang Afternoon 2025",
+      "start_date": "2025-08-31",
+      "end_date": "2025-08-31",
+      "city": "Quanzhou, Fujian",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "GuangzhouSmallCubes2025",
+      "name": "Guangzhou Small Cubes 2025",
+      "start_date": "2025-11-09",
+      "end_date": "2025-11-09",
+      "city": "Guangzhou, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "GuangzhouBigCubes2025",
+      "name": "Guangzhou Big Cubes 2025",
+      "start_date": "2025-12-21",
+      "end_date": "2025-12-21",
+      "city": "Guangzhou, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "GuangdongRevivalRival2026",
+      "name": "Guangdong Open - Revival & Rival 2026",
+      "start_date": "2026-02-06",
+      "end_date": "2026-02-08",
+      "city": "Guangzhou, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "ZhuhaiPiDay2026",
+      "name": "Zhuhai Pi Day 2026",
+      "start_date": "2026-03-14",
+      "end_date": "2026-03-14",
+      "city": "Zhuhai, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "FoshanOpen2026",
+      "name": "Foshan Open 2026",
+      "start_date": "2026-05-02",
+      "end_date": "2026-05-03",
+      "city": "Foshan, Guangdong",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "GuangzhouGrandOpen2026",
+      "name": "Guangzhou Grand Open 2026",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-06",
+      "city": "Guangzhou, Guangdong",
+      "country_iso2": "CN"
+    }
+  ]
+}

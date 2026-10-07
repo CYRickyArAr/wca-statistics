@@ -33,20 +33,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Node for data refresh
-        if: ${{ github.event_name == 'schedule' || inputs.refresh_data == true }}
+      - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: '22'
       - name: Refresh default member data
         if: ${{ github.event_name == 'schedule' || inputs.refresh_data == true }}
         run: npm run sync:defaults
+      - name: Build versioned static site
+        run: node scripts/build-pages.mjs "$RUNNER_TEMP/wca-pages"
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: ${{ runner.temp }}/wca-pages
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
