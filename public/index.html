@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#2053cf">
+  <title>WCA 连续平均统计</title>
+  <link rel="icon" href="./cube.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./averages.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <a href="./" class="brand"><img src="./cube.svg" width="38" height="38" alt=""><span>WCA 统计<span class="brand-sub">非官方连续平均</span></span></a>
+    <div class="sidebar-title"><h2>选手名单</h2><span id="member-count">0</span></div>
+    <div id="members" class="members" aria-label="选择选手"></div>
+    <form id="add-form" class="add-form">
+      <label for="wca-id">添加选手</label>
+      <div class="input-row"><input id="wca-id" name="wca-id" placeholder="输入 WCA ID" required maxlength="10" autocomplete="off" spellcheck="false"><button type="submit" id="add-button" aria-label="添加选手">＋</button></div>
+    </form>
+    <div class="sidebar-bottom">
+      <button id="export-button" class="text-button" title="名单保存在当前浏览器，换浏览器前可导出备份">备份名单</button><span aria-hidden="true"> / </span><button id="import-button" class="text-button">导入名单</button>
+      <input type="file" id="import-file" accept=".json,application/json" hidden>
+    </div>
+  </aside>
+  <main>
+    <header class="topbar"><span>正式成绩 · 非官方连续平均</span><a href="https://www.worldcubeassociation.org/" target="_blank" rel="noopener noreferrer">WCA 官方主页 ↗</a></header>
+    <section class="intro">
+      <div><h1 id="page-title">WCA 连续平均统计</h1></div>
+      <button id="refresh-button" class="button secondary">更新当前选手</button>
+    </section>
+    <div id="notice" class="notice" role="status" aria-live="polite" hidden></div>
+    <nav class="tabs" aria-label="统计页面">
+      <button data-tab="personal" class="active" aria-current="page">选手 Ao 统计</button>
+      <button data-tab="ranking">Ao 排行榜</button>
+      <button data-tab="rules">计算规则</button>
+    </nav>
+    <div id="content"><p class="empty">正在加载成绩…</p></div>
+    <footer><span>WCA 数据 · 非官方统计</span><a href="https://github.com/jonatanklosko/wca_statistics" target="_blank" rel="noopener noreferrer">灵感来源：wca_statistics ↗</a></footer>
+  </main>
+  <noscript>请启用 JavaScript，以查看统计和管理选手。</noscript>
+</body>
+</html>

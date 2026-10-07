@@ -1,0 +1,507 @@
+{
+  "id": "2021XUJI03",
+  "fetchedAt": "2026-10-07T06:38:13.385Z",
+  "profile": {
+    "person": {
+      "name": "Jiale Xu (徐嘉乐)",
+      "gender": "m",
+      "url": "https://www.worldcubeassociation.org/persons/2021XUJI03",
+      "country": {
+        "id": "China",
+        "name": "China",
+        "continent_id": "_Asia",
+        "iso2": "CN"
+      },
+      "delegate_status": null,
+      "class": "person",
+      "teams": [],
+      "avatar": {
+        "id": null,
+        "status": "approved",
+        "thumbnail_crop_x": 0,
+        "thumbnail_crop_y": 0,
+        "thumbnail_crop_w": 100,
+        "thumbnail_crop_h": 100,
+        "url": "https://assets.worldcubeassociation.org/assets/2153959/assets/missing_avatar_thumb-12654dd6f1aa6d458e80d02d6eed8b1fbea050a04beeb88047cb805a4bfe8ee0.png",
+        "thumb_url": "https://assets.worldcubeassociation.org/assets/2153959/assets/missing_avatar_thumb-12654dd6f1aa6d458e80d02d6eed8b1fbea050a04beeb88047cb805a4bfe8ee0.png",
+        "is_default": true,
+        "can_edit_thumbnail": false
+      },
+      "wca_id": "2021XUJI03",
+      "country_iso2": "CN",
+      "id": "2021XUJI03"
+    },
+    "competition_count": 3,
+    "personal_records": {
+      "222": {
+        "single": {
+          "id": 42893,
+          "person_id": "2021XUJI03",
+          "event_id": "222",
+          "best": 370,
+          "world_rank": 42890,
+          "continent_rank": 12155,
+          "country_rank": 3796
+        },
+        "average": {
+          "id": 27975,
+          "person_id": "2021XUJI03",
+          "event_id": "222",
+          "best": 484,
+          "world_rank": 27867,
+          "continent_rank": 8380,
+          "country_rank": 2765
+        }
+      },
+      "333": {
+        "single": {
+          "id": 190623,
+          "person_id": "2021XUJI03",
+          "event_id": "333",
+          "best": 636,
+          "world_rank": 2121,
+          "continent_rank": 737,
+          "country_rank": 275
+        },
+        "average": {
+          "id": 184870,
+          "person_id": "2021XUJI03",
+          "event_id": "333",
+          "best": 765,
+          "world_rank": 1383,
+          "continent_rank": 522,
+          "country_rank": 228
+        }
+      },
+      "444": {
+        "single": {
+          "id": 585338,
+          "person_id": "2021XUJI03",
+          "event_id": "444",
+          "best": 3085,
+          "world_rank": 2898,
+          "continent_rank": 1026,
+          "country_rank": 351
+        },
+        "average": {
+          "id": 538211,
+          "person_id": "2021XUJI03",
+          "event_id": "444",
+          "best": 3520,
+          "world_rank": 2592,
+          "continent_rank": 927,
+          "country_rank": 308
+        }
+      },
+      "555": {
+        "single": {
+          "id": 670573,
+          "person_id": "2021XUJI03",
+          "event_id": "555",
+          "best": 5380,
+          "world_rank": 1228,
+          "continent_rank": 440,
+          "country_rank": 135
+        },
+        "average": {
+          "id": 593606,
+          "person_id": "2021XUJI03",
+          "event_id": "555",
+          "best": 6669,
+          "world_rank": 2303,
+          "continent_rank": 837,
+          "country_rank": 281
+        }
+      },
+      "333oh": {
+        "single": {
+          "id": 515538,
+          "person_id": "2021XUJI03",
+          "event_id": "333oh",
+          "best": 1587,
+          "world_rank": 7425,
+          "continent_rank": 2760,
+          "country_rank": 993
+        },
+        "average": {
+          "id": 481735,
+          "person_id": "2021XUJI03",
+          "event_id": "333oh",
+          "best": 1716,
+          "world_rank": 4118,
+          "continent_rank": 1574,
+          "country_rank": 572
+        }
+      },
+      "clock": {
+        "single": {
+          "id": 757719,
+          "person_id": "2021XUJI03",
+          "event_id": "clock",
+          "best": 1376,
+          "world_rank": 13946,
+          "continent_rank": 3365,
+          "country_rank": 1035
+        },
+        "average": {
+          "id": 653827,
+          "person_id": "2021XUJI03",
+          "event_id": "clock",
+          "best": 1554,
+          "world_rank": 12369,
+          "continent_rank": 2989,
+          "country_rank": 937
+        }
+      },
+      "pyram": {
+        "single": {
+          "id": 834136,
+          "person_id": "2021XUJI03",
+          "event_id": "pyram",
+          "best": 479,
+          "world_rank": 15566,
+          "continent_rank": 4240,
+          "country_rank": 1452
+        },
+        "average": {
+          "id": 714537,
+          "person_id": "2021XUJI03",
+          "event_id": "pyram",
+          "best": 833,
+          "world_rank": 19906,
+          "continent_rank": 5779,
+          "country_rank": 2079
+        }
+      }
+    },
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    "records": {
+      "national": 0,
+      "continental": 0,
+      "world": 0,
+      "total": 0
+    },
+    "total_solves": 78
+  },
+  "results": [
+    {
+      "id": 3731549,
+      "competition_id": "BeijingSpringSpecial2021",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 29,
+      "best": 3757,
+      "average": 4044,
+      "attempts": [
+        3968,
+        4187,
+        3757,
+        4174,
+        3990
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3731679,
+      "competition_id": "BeijingSpringSpecial2021",
+      "event_id": "555",
+      "round_type_id": "d",
+      "pos": 52,
+      "best": 7440,
+      "average": 9573,
+      "attempts": [
+        12098,
+        7751,
+        8869,
+        7440,
+        -1
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3731860,
+      "competition_id": "BeijingSpringSpecial2021",
+      "event_id": "clock",
+      "round_type_id": "d",
+      "pos": 36,
+      "best": 1376,
+      "average": 1554,
+      "attempts": [
+        1611,
+        1585,
+        -1,
+        1376,
+        1465
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3732043,
+      "competition_id": "BeijingSpringAM2021",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 12,
+      "best": 941,
+      "average": 1011,
+      "attempts": [
+        1067,
+        995,
+        972,
+        1106,
+        941
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3732220,
+      "competition_id": "BeijingSpringAM2021",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 7,
+      "best": 842,
+      "average": 911,
+      "attempts": [
+        971,
+        1061,
+        842,
+        862,
+        901
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3732260,
+      "competition_id": "BeijingSpringAM2021",
+      "event_id": "222",
+      "round_type_id": "d",
+      "pos": 31,
+      "best": 370,
+      "average": 484,
+      "attempts": [
+        370,
+        409,
+        486,
+        558,
+        599
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 3732417,
+      "competition_id": "BeijingSpringAM2021",
+      "event_id": "pyram",
+      "round_type_id": "d",
+      "pos": 45,
+      "best": 479,
+      "average": 833,
+      "attempts": [
+        782,
+        479,
+        768,
+        949,
+        1507
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8146153,
+      "competition_id": "ChengduWelcomingSummer2026",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 21,
+      "best": 636,
+      "average": 765,
+      "attempts": [
+        738,
+        813,
+        636,
+        743,
+        969
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8146290,
+      "competition_id": "ChengduWelcomingSummer2026",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 19,
+      "best": 717,
+      "average": 768,
+      "attempts": [
+        730,
+        754,
+        820,
+        717,
+        905
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8146382,
+      "competition_id": "ChengduWelcomingSummer2026",
+      "event_id": "333",
+      "round_type_id": "3",
+      "pos": 22,
+      "best": 710,
+      "average": 847,
+      "attempts": [
+        809,
+        944,
+        896,
+        837,
+        710
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8146529,
+      "competition_id": "ChengduWelcomingSummer2026",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 11,
+      "best": 3364,
+      "average": 3554,
+      "attempts": [
+        3590,
+        3672,
+        4156,
+        3364,
+        3399
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8146585,
+      "competition_id": "ChengduWelcomingSummer2026",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 12,
+      "best": 3085,
+      "average": 3520,
+      "attempts": [
+        3660,
+        3676,
+        3085,
+        3665,
+        3234
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8146597,
+      "competition_id": "ChengduWelcomingSummer2026",
+      "event_id": "555",
+      "round_type_id": "d",
+      "pos": 8,
+      "best": 5380,
+      "average": 6669,
+      "attempts": [
+        6344,
+        6634,
+        5380,
+        7347,
+        7028
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8146629,
+      "competition_id": "ChengduWelcomingSummer2026",
+      "event_id": "555",
+      "round_type_id": "f",
+      "pos": 10,
+      "best": 6512,
+      "average": 6782,
+      "attempts": [
+        6512,
+        7092,
+        6656,
+        6916,
+        6775
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8146646,
+      "competition_id": "ChengduWelcomingSummer2026",
+      "event_id": "333oh",
+      "round_type_id": "d",
+      "pos": 11,
+      "best": 1723,
+      "average": 1819,
+      "attempts": [
+        1832,
+        1723,
+        1836,
+        2616,
+        1789
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8146687,
+      "competition_id": "ChengduWelcomingSummer2026",
+      "event_id": "333oh",
+      "round_type_id": "f",
+      "pos": 10,
+      "best": 1587,
+      "average": 1716,
+      "attempts": [
+        1786,
+        1670,
+        1802,
+        1587,
+        1693
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    }
+  ],
+  "competitions": [
+    {
+      "id": "BeijingSpringSpecial2021",
+      "name": "Beijing Spring Special 2021",
+      "start_date": "2021-04-03",
+      "end_date": "2021-04-03",
+      "city": "Beijing",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "BeijingSpringAM2021",
+      "name": "Beijing Spring AM 2021",
+      "start_date": "2021-04-04",
+      "end_date": "2021-04-04",
+      "city": "Beijing",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "ChengduWelcomingSummer2026",
+      "name": "Chengdu Welcoming Summer 2026",
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-04",
+      "city": "Chengdu, Sichuan",
+      "country_iso2": "CN"
+    }
+  ]
+}

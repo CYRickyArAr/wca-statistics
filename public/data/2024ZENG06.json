@@ -1,0 +1,188 @@
+{
+  "id": "2024ZENG06",
+  "fetchedAt": "2026-10-07T06:37:57.977Z",
+  "profile": {
+    "person": {
+      "name": "Haokai Zeng (曾浩锴)",
+      "gender": "m",
+      "url": "https://www.worldcubeassociation.org/persons/2024ZENG06",
+      "country": null,
+      "delegate_status": null,
+      "class": "person",
+      "teams": [],
+      "avatar": {
+        "id": null,
+        "status": "approved",
+        "thumbnail_crop_x": 0,
+        "thumbnail_crop_y": 0,
+        "thumbnail_crop_w": 100,
+        "thumbnail_crop_h": 100,
+        "url": "https://assets.worldcubeassociation.org/assets/2153959/assets/missing_avatar_thumb-12654dd6f1aa6d458e80d02d6eed8b1fbea050a04beeb88047cb805a4bfe8ee0.png",
+        "thumb_url": "https://assets.worldcubeassociation.org/assets/2153959/assets/missing_avatar_thumb-12654dd6f1aa6d458e80d02d6eed8b1fbea050a04beeb88047cb805a4bfe8ee0.png",
+        "is_default": true,
+        "can_edit_thumbnail": false
+      },
+      "wca_id": "2024ZENG06",
+      "country_iso2": "CN",
+      "id": "2024ZENG06"
+    },
+    "competition_count": 1,
+    "personal_records": {
+      "333": {
+        "single": {
+          "id": 188695,
+          "person_id": "2024ZENG06",
+          "event_id": "333",
+          "best": 475,
+          "world_rank": 215,
+          "continent_rank": 77,
+          "country_rank": 43
+        },
+        "average": {
+          "id": 183901,
+          "person_id": "2024ZENG06",
+          "event_id": "333",
+          "best": 673,
+          "world_rank": 412,
+          "continent_rank": 158,
+          "country_rank": 86
+        }
+      },
+      "444": {
+        "single": {
+          "id": 583450,
+          "person_id": "2024ZENG06",
+          "event_id": "444",
+          "best": 2654,
+          "world_rank": 1009,
+          "continent_rank": 362,
+          "country_rank": 123
+        },
+        "average": {
+          "id": 536392,
+          "person_id": "2024ZENG06",
+          "event_id": "444",
+          "best": 3013,
+          "world_rank": 775,
+          "continent_rank": 278,
+          "country_rank": 100
+        }
+      }
+    },
+    "medals": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0,
+      "total": 0
+    },
+    "records": {
+      "national": 0,
+      "continental": 0,
+      "world": 0,
+      "total": 0
+    },
+    "total_solves": 23
+  },
+  "results": [
+    {
+      "id": 6675534,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 5,
+      "best": 503,
+      "average": 673,
+      "attempts": [
+        503,
+        565,
+        735,
+        740,
+        718
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6675758,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 6,
+      "best": 514,
+      "average": 673,
+      "attempts": [
+        602,
+        -1,
+        514,
+        657,
+        760
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6675858,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 6,
+      "best": 475,
+      "average": 681,
+      "attempts": [
+        720,
+        743,
+        580,
+        853,
+        475
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6676038,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 11,
+      "best": 2843,
+      "average": 3311,
+      "attempts": [
+        2843,
+        3370,
+        3351,
+        3211,
+        3397
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 6676155,
+      "competition_id": "ShenzhenOpen2024",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 7,
+      "best": 2654,
+      "average": 3013,
+      "attempts": [
+        2654,
+        3016,
+        -1,
+        3130,
+        2892
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    }
+  ],
+  "competitions": [
+    {
+      "id": "ShenzhenOpen2024",
+      "name": "Shenzhen Open 2024",
+      "start_date": "2024-12-07",
+      "end_date": "2024-12-07",
+      "city": "Shenzhen, Guangdong Province",
+      "country_iso2": "CN"
+    }
+  ]
+}

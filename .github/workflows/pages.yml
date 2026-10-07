@@ -1,0 +1,49 @@
+name: Deploy WCA statistics to GitHub Pages
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+    inputs:
+      refresh_data:
+        description: '部署前从 WCA 更新默认选手成绩（需要连接 WCA）'
+        type: boolean
+        default: false
+        required: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node for optional data refresh
+        if: ${{ inputs.refresh_data == true }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Refresh default member data
+        if: ${{ inputs.refresh_data == true }}
+        run: npm run sync:defaults
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

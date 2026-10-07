@@ -1,0 +1,434 @@
+{
+  "id": "2023ZHOU35",
+  "fetchedAt": "2026-10-07T06:38:05.497Z",
+  "profile": {
+    "person": {
+      "name": "Xiangmin Zhou (周向民)",
+      "gender": "m",
+      "url": "https://www.worldcubeassociation.org/persons/2023ZHOU35",
+      "country": null,
+      "delegate_status": null,
+      "class": "person",
+      "teams": [],
+      "avatar": {
+        "id": null,
+        "status": "approved",
+        "thumbnail_crop_x": 0,
+        "thumbnail_crop_y": 0,
+        "thumbnail_crop_w": 100,
+        "thumbnail_crop_h": 100,
+        "url": "https://assets.worldcubeassociation.org/assets/2153959/assets/missing_avatar_thumb-12654dd6f1aa6d458e80d02d6eed8b1fbea050a04beeb88047cb805a4bfe8ee0.png",
+        "thumb_url": "https://assets.worldcubeassociation.org/assets/2153959/assets/missing_avatar_thumb-12654dd6f1aa6d458e80d02d6eed8b1fbea050a04beeb88047cb805a4bfe8ee0.png",
+        "is_default": true,
+        "can_edit_thumbnail": false
+      },
+      "wca_id": "2023ZHOU35",
+      "country_iso2": "CN",
+      "id": "2023ZHOU35"
+    },
+    "competition_count": 2,
+    "personal_records": {
+      "333": {
+        "single": {
+          "id": 188856,
+          "person_id": "2023ZHOU35",
+          "event_id": "333",
+          "best": 506,
+          "world_rank": 377,
+          "continent_rank": 127,
+          "country_rank": 58
+        },
+        "average": {
+          "id": 184265,
+          "person_id": "2023ZHOU35",
+          "event_id": "333",
+          "best": 717,
+          "world_rank": 769,
+          "continent_rank": 298,
+          "country_rank": 142
+        }
+      },
+      "444": {
+        "single": {
+          "id": 583344,
+          "person_id": "2023ZHOU35",
+          "event_id": "444",
+          "best": 2622,
+          "world_rank": 903,
+          "continent_rank": 319,
+          "country_rank": 109
+        },
+        "average": {
+          "id": 535980,
+          "person_id": "2023ZHOU35",
+          "event_id": "444",
+          "best": 2773,
+          "world_rank": 363,
+          "continent_rank": 127,
+          "country_rank": 45
+        }
+      },
+      "555": {
+        "single": {
+          "id": 670155,
+          "person_id": "2023ZHOU35",
+          "event_id": "555",
+          "best": 5075,
+          "world_rank": 810,
+          "continent_rank": 298,
+          "country_rank": 84
+        },
+        "average": {
+          "id": 591811,
+          "person_id": "2023ZHOU35",
+          "event_id": "555",
+          "best": 5382,
+          "world_rank": 508,
+          "continent_rank": 192,
+          "country_rank": 51
+        }
+      },
+      "333oh": {
+        "single": {
+          "id": 508303,
+          "person_id": "2023ZHOU35",
+          "event_id": "333oh",
+          "best": 826,
+          "world_rank": 194,
+          "continent_rank": 61,
+          "country_rank": 19
+        },
+        "average": {
+          "id": 477650,
+          "person_id": "2023ZHOU35",
+          "event_id": "333oh",
+          "best": 927,
+          "world_rank": 40,
+          "continent_rank": 15,
+          "country_rank": 5
+        }
+      }
+    },
+    "medals": {
+      "gold": 2,
+      "silver": 0,
+      "bronze": 0,
+      "total": 2
+    },
+    "records": {
+      "national": 0,
+      "continental": 0,
+      "world": 0,
+      "total": 0
+    },
+    "total_solves": 80
+  },
+  "results": [
+    {
+      "id": 5600868,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 17,
+      "best": 667,
+      "average": 846,
+      "attempts": [
+        1179,
+        701,
+        667,
+        923,
+        914
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601041,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 5,
+      "best": 626,
+      "average": 736,
+      "attempts": [
+        753,
+        626,
+        754,
+        701,
+        963
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601123,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 8,
+      "best": 576,
+      "average": 789,
+      "attempts": [
+        939,
+        681,
+        576,
+        860,
+        825
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601280,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 9,
+      "best": 2929,
+      "average": 3176,
+      "attempts": [
+        3263,
+        3253,
+        3290,
+        2929,
+        3012
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601375,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 8,
+      "best": 2937,
+      "average": 3240,
+      "attempts": [
+        3618,
+        2937,
+        3517,
+        3037,
+        3166
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601384,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "333oh",
+      "round_type_id": "d",
+      "pos": 1,
+      "best": 980,
+      "average": 1086,
+      "attempts": [
+        1650,
+        1016,
+        1029,
+        980,
+        1213
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 5601477,
+      "competition_id": "ShenzhenOpen2023",
+      "event_id": "333oh",
+      "round_type_id": "f",
+      "pos": 1,
+      "best": 826,
+      "average": 1084,
+      "attempts": [
+        1291,
+        826,
+        1229,
+        935,
+        1089
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8448145,
+      "competition_id": "NanningOpen2026",
+      "event_id": "333",
+      "round_type_id": "1",
+      "pos": 17,
+      "best": 645,
+      "average": 820,
+      "attempts": [
+        725,
+        851,
+        885,
+        922,
+        645
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8448269,
+      "competition_id": "NanningOpen2026",
+      "event_id": "333",
+      "round_type_id": "2",
+      "pos": 13,
+      "best": 506,
+      "average": 717,
+      "attempts": [
+        801,
+        706,
+        754,
+        690,
+        506
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8448339,
+      "competition_id": "NanningOpen2026",
+      "event_id": "333",
+      "round_type_id": "f",
+      "pos": 14,
+      "best": 552,
+      "average": 770,
+      "attempts": [
+        915,
+        840,
+        773,
+        552,
+        698
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8448437,
+      "competition_id": "NanningOpen2026",
+      "event_id": "444",
+      "round_type_id": "d",
+      "pos": 11,
+      "best": 2622,
+      "average": 2961,
+      "attempts": [
+        2622,
+        3043,
+        2862,
+        3104,
+        2979
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8448495,
+      "competition_id": "NanningOpen2026",
+      "event_id": "444",
+      "round_type_id": "f",
+      "pos": 8,
+      "best": 2664,
+      "average": 2773,
+      "attempts": [
+        2918,
+        2964,
+        2664,
+        2690,
+        2710
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8448512,
+      "competition_id": "NanningOpen2026",
+      "event_id": "555",
+      "round_type_id": "d",
+      "pos": 9,
+      "best": 5258,
+      "average": 5848,
+      "attempts": [
+        5258,
+        6095,
+        5665,
+        5783,
+        6193
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8448546,
+      "competition_id": "NanningOpen2026",
+      "event_id": "555",
+      "round_type_id": "f",
+      "pos": 4,
+      "best": 5075,
+      "average": 5382,
+      "attempts": [
+        6113,
+        5075,
+        5737,
+        5109,
+        5299
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8448577,
+      "competition_id": "NanningOpen2026",
+      "event_id": "333oh",
+      "round_type_id": "d",
+      "pos": 1,
+      "best": 897,
+      "average": 927,
+      "attempts": [
+        903,
+        981,
+        950,
+        897,
+        927
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    },
+    {
+      "id": 8448631,
+      "competition_id": "NanningOpen2026",
+      "event_id": "333oh",
+      "round_type_id": "f",
+      "pos": 1,
+      "best": 920,
+      "average": 963,
+      "attempts": [
+        969,
+        1765,
+        963,
+        920,
+        956
+      ],
+      "regional_single_record": null,
+      "regional_average_record": null
+    }
+  ],
+  "competitions": [
+    {
+      "id": "ShenzhenOpen2023",
+      "name": "Shenzhen Open 2023",
+      "start_date": "2023-12-24",
+      "end_date": "2023-12-24",
+      "city": "Shenzhen, Guangdong Province",
+      "country_iso2": "CN"
+    },
+    {
+      "id": "NanningOpen2026",
+      "name": "Nanning Open 2026",
+      "start_date": "2026-08-23",
+      "end_date": "2026-08-23",
+      "city": "Nanning, Guangxi",
+      "country_iso2": "CN"
+    }
+  ]
+}
