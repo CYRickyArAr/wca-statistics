@@ -39,8 +39,9 @@ export async function loadDirectPerson(id, fetcher = fetch) {
 export function mergeDefaultMembers(saved, defaults) {
   const previous = Array.isArray(saved?.ids) ? saved.ids.filter(validId) : [];
   const version = defaults?.version || '';
-  const added = saved?.defaultVersion === version ? [] : (defaults?.members || []).map(m => m.id).filter(validId);
-  return { ids: [...new Set([...previous, ...added])].slice(0, 100), defaultVersion: version };
+  const required = (defaults?.members || []).map(m => m.id).filter(validId);
+  // 每次恢复完整默认名单；新增默认成员时不截断已有的手动成员。
+  return { ids: [...new Set([...required, ...previous])], defaultVersion: version };
 }
 export function newerSnapshot(cached, bundled) {
   if (!cached) return bundled;

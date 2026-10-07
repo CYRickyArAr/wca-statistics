@@ -10,8 +10,8 @@ const modeName = mode => mode === 'best' ? '历史最佳' : '最近';
 export function playedEvents(data) {
   return EVENTS.filter(([event]) => data.results.some(r => r.event_id === event));
 }
-function head(data, busy) {
-  return `<div class="profile-head"><div><h2>${escape(data.profile.person.name)}</h2><p>${data.id} · 官方成绩获取于 ${escape(dateTime(data.fetchedAt))}</p></div><div class="profile-actions"><a href="https://www.worldcubeassociation.org/persons/${data.id}" target="_blank" rel="noopener noreferrer">官方档案 ↗</a><button class="text-button danger" data-remove="${data.id}" ${busy ? 'disabled' : ''}>移除选手</button></div></div>`;
+function head(data, busy, canRemove) {
+  return `<div class="profile-head"><div><h2>${escape(data.profile.person.name)}</h2><p>${data.id} · 官方成绩获取于 ${escape(dateTime(data.fetchedAt))}</p></div><div class="profile-actions"><a href="https://www.worldcubeassociation.org/persons/${data.id}" target="_blank" rel="noopener noreferrer">官方档案 ↗</a>${canRemove ? `<button class="text-button danger" data-remove="${data.id}" ${busy ? 'disabled' : ''}>移除选手</button>` : ''}</div></div>`;
 }
 function controls(state, events = EVENTS, full = true) {
   return `<div class="filters">${full ? `<label>项目<select id="event-select">${events.map(([id, name]) => `<option value="${id}" ${id === state.event ? 'selected' : ''}>${name}</option>`).join('')}</select></label><label>连续次数<select id="size-select">${AO_SIZES.map(n => `<option value="${n}" ${n === state.size ? 'selected' : ''}>Ao${n}</option>`).join('')}</select></label>` : ''}<label>统计范围<select id="mode-select"><option value="best" ${state.mode === 'best' ? 'selected' : ''}>历史最佳</option><option value="latest" ${state.mode === 'latest' ? 'selected' : ''}>最近一次</option></select></label></div>`;
@@ -50,7 +50,7 @@ function detail(data, state) {
   return `<section class="panel" id="ao-detail">${heading}<div class="window-summary"><div class="window-score"><span>${modeName(mode)} Ao${size}</span><strong>${fmt(window.value, event)}</strong>${event === '333fm' ? '<small>步</small>' : ''}</div>${hasInvalid ? '<p class="invalid-message">剔除后仍有 DNF / DNS</p>' : ''}</div>${endpoints(analysis.attempts, window)}${analysis.missingDates ? '<p class="date-warning">部分比赛日期缺失，排在已知日期之后，可能影响连续统计。</p>' : ''}<div class="attempt-legend"><span class="fast-key">( ) 去最快</span><span class="slow-key">[ ] 去最差</span></div><ol class="attempt-grid">${rows.map(r => `<li class="solve ${r.excluded || 'kept'}"><span class="solve-index">${r.offset + 1}</span><span class="solve-value">${r.excluded === 'fast' ? '(' : r.excluded === 'slow' ? '[' : ''}${fmt(r.value, event, 'single')}${r.excluded === 'fast' ? ')' : r.excluded === 'slow' ? ']' : ''}</span></li>`).join('')}</ol><details class="attempt-source"><summary>成绩来源（${size} 次）</summary><div class="table-wrap"><table><thead><tr><th>窗口内序号</th><th>成绩</th><th>处理方式</th><th>比赛 / 日期</th><th>轮次 / 尝试</th></tr></thead><tbody>${rows.map(r => `<tr><td>${r.offset + 1}</td><td class="number">${fmt(r.value, event, 'single')}</td><td>${r.excluded === 'fast' ? '最快剔除' : r.excluded === 'slow' ? '最差剔除' : '计入平均'}</td><td>${compLink(r)}<br><span class="small muted">${escape(r.competition?.start_date || '日期未知')}</span></td><td>${escape(roundName(r.round))} / 第 ${r.attempt} 次</td></tr>`).join('')}</tbody></table></div></details></section>`;
 }
 export function renderPersonal(data, state) {
-  return head(data, state.busy) + overview(data, state) + detail(data, state);
+  return head(data, state.busy, state.defaultsLoaded && !state.defaultIds.has(data.id)) + overview(data, state) + detail(data, state);
 }
 export function renderRanking(people, total, state) {
   const { event, size, mode } = state;

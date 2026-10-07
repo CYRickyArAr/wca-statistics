@@ -6,11 +6,12 @@ import { sortMembers } from './member-order.js';
 const $ = selector => document.querySelector(selector);
 // 保留旧版存储键，原来添加的选手无需重新添加。
 const key = 'caiyang-wca-v1';
-const state = { ids: [], data: new Map(), selected: null, tab: 'personal', event: '333', size: 12, mode: 'best', busy: false, defaultVersion: '' };
+const state = { ids: [], data: new Map(), selected: null, tab: 'personal', event: '333', size: 12, mode: 'best', busy: false, defaultVersion: '', defaultIds: new Set(), defaultsLoaded: false };
 let defaultNames = new Map();
 let defaultSortNames = new Map();
 const current = () => state.data.get(state.selected);
 const people = () => state.ids.map(id => state.data.get(id)).filter(Boolean);
+const canRemove = id => state.defaultsLoaded && state.ids.includes(id) && !state.defaultIds.has(id);
 function notice(message, error = false) {
   $('#notice').hidden = !message;
   $('#notice').textContent = message;
@@ -78,7 +79,7 @@ function render() {
   $('#content').innerHTML = state.tab === 'rules' ? renderRules()
     : state.tab === 'ranking' ? renderRanking(people(), state.ids.length, state)
     : data ? renderPersonal(data, state)
-    : state.selected ? `<div class="empty"><strong>还没有这位选手的成绩缓存</strong>点击「更新当前选手」获取逐次成绩，再计算 Ao。<p><button class="text-button danger" data-remove="${state.selected}" ${state.busy ? 'disabled' : ''}>移除选手</button></p></div>`
+    : state.selected ? `<div class="empty"><strong>还没有这位选手的成绩缓存</strong>点击「更新当前选手」获取逐次成绩，再计算 Ao。${canRemove(state.selected) ? `<p><button class="text-button danger" data-remove="${state.selected}" ${state.busy ? 'disabled' : ''}>移除选手</button></p>` : ''}</div>`
     : '<div class="empty">添加选手，查看连续平均。</div>';
 }
 function focusDetail() {
@@ -124,6 +125,7 @@ document.addEventListener('click', event => {
   } else if (button.dataset.tab) { state.tab = button.dataset.tab; render(); }
   else if (button.dataset.remove && !state.busy) {
     const id = button.dataset.remove;
+    if (!canRemove(id)) return;
     const name = state.data.has(id) ? displayName(state.data.get(id)) : id;
     if (!confirm(`从名单移除 ${name}？不会影响 WCA 官方数据。`)) return;
     state.ids = state.ids.filter(i => i !== id); state.data.delete(id);
@@ -184,8 +186,10 @@ async function init() {
     const config = await response.json();
     if (typeof config.version !== 'string' || !Array.isArray(config.members) || !config.members.every(m => validId(m.id) && typeof m.name === 'string')) throw new Error('invalid defaults');
     defaults = config;
+    state.defaultsLoaded = true;
   } catch { notice('默认名单未能加载，请刷新重试。已有名单不受影响。', true); }
   defaultNames = new Map(defaults.members.map(m => [m.id, m.name]));
+  state.defaultIds = new Set(defaultNames.keys());
   defaultSortNames = new Map(defaults.members.map(m => [m.id, m.sortName]));
   Object.assign(state, mergeDefaultMembers(saved, defaults));
   for (const id of state.ids) {

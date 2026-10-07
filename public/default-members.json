@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-defaults-3",
+  "version": "2026-10-defaults-4",
   "selection": "重名按三阶官方单次 PB 优先，单次相同则比较平均。",
   "members": [
     { "id": "2019CAIY01", "name": "蔡扬", "sortName": "Cai Yang" },
@@ -12,8 +12,10 @@
     { "id": "2018LIUL01", "name": "刘磊", "sortName": "Liu Lei" },
     { "id": "2015WENT01", "name": "温韬", "sortName": "Wen Tao" },
     { "id": "2021XUJI03", "name": "徐嘉乐", "sortName": "Xu Jiale" },
+    { "id": "2023XIUY01", "name": "杨品修", "sortName": "Yang Pinxiu" },
     { "id": "2024ZENG06", "name": "曾浩锴", "sortName": "Zeng Haokai" },
     { "id": "2021ZHAN01", "name": "张博藩", "sortName": "Zhang Bofan" },
+    { "id": "2023ZHEN26", "name": "郑煜升", "sortName": "Zheng Yusheng" },
     { "id": "2023ZHOU35", "name": "周向民", "sortName": "Zhou Xiangmin" }
   ]
 }
